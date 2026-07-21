@@ -74,9 +74,9 @@ def get_random_sub_circuit(model, sub_circuit, possible_positions):
         random_sub_circuit.append(
             Component(
                 c.hook_name,
-                layer=random.randint(0, model.cfg.n_layers),
+                layer=random.randint(0, model.cfg.n_layers - 1),
                 head=(
-                    random.randint(0, model.cfg.n_heads)
+                    random.randint(0, model.cfg.n_heads - 1)
                     if c.head_idx is not None
                     else None
                 ),
