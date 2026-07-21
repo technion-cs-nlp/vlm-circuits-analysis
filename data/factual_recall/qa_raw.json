@@ -1,0 +1,5064 @@
+{
+    "Consider [X].\nWhat sport does this athlete play? Answer in a single word.": [
+        [
+            "Andreas Ivanschitz",
+            "soccer"
+        ],
+        [
+            "Roberto Clemente",
+            "baseball"
+        ],
+        [
+            "Carlos Valderrama",
+            "soccer"
+        ],
+        [
+            "Hank Aaron",
+            "baseball"
+        ],
+        [
+            "Jari Kurri",
+            "hockey"
+        ],
+        [
+            "David Carney",
+            "soccer"
+        ],
+        [
+            "R.A. Dickey",
+            "baseball"
+        ],
+        [
+            "Luis Scola",
+            "basketball"
+        ],
+        [
+            "Satchel Paige",
+            "baseball"
+        ],
+        [
+            "Elton Brand",
+            "basketball"
+        ],
+        [
+            "Terrell Owens",
+            "football"
+        ],
+        [
+            "Matteo Ferrari",
+            "soccer"
+        ],
+        [
+            "Tom Harmon",
+            "football"
+        ],
+        [
+            "Mariano Rivera",
+            "baseball"
+        ],
+        [
+            "Gary Carter",
+            "baseball"
+        ],
+        [
+            "Igor Larionov",
+            "hockey"
+        ],
+        [
+            "Ashley Cole",
+            "soccer"
+        ],
+        [
+            "Dennis Rodman",
+            "basketball"
+        ],
+        [
+            "Moe Berg",
+            "baseball"
+        ],
+        [
+            "Willie Mays",
+            "baseball"
+        ],
+        [
+            "Landon Donovan",
+            "soccer"
+        ],
+        [
+            "Tim Tebow",
+            "football"
+        ],
+        [
+            "David Beckham",
+            "soccer"
+        ],
+        [
+            "Magic Johnson",
+            "basketball"
+        ],
+        [
+            "Zack Steffen",
+            "soccer"
+        ],
+        [
+            "Andrea Pirlo",
+            "soccer"
+        ],
+        [
+            "Cy Young",
+            "baseball"
+        ],
+        [
+            "Bud Grant",
+            "football"
+        ],
+        [
+            "Jesse Hibbs",
+            "football"
+        ],
+        [
+            "Jim Bunning",
+            "baseball"
+        ],
+        [
+            "Carlos Arroyo",
+            "basketball"
+        ],
+        [
+            "Alessandro Nesta",
+            "soccer"
+        ],
+        [
+            "Ryan Smyth",
+            "hockey"
+        ],
+        [
+            "Troy Aikman",
+            "football"
+        ],
+        [
+            "Joakim Noah",
+            "basketball"
+        ],
+        [
+            "Sergei Fedorov",
+            "hockey"
+        ],
+        [
+            "Chris Paul",
+            "basketball"
+        ],
+        [
+            "David Robinson",
+            "basketball"
+        ],
+        [
+            "Bobby Orr",
+            "hockey"
+        ],
+        [
+            "Herschel Walker",
+            "football"
+        ],
+        [
+            "Bobby Hull",
+            "hockey"
+        ],
+        [
+            "Larry Doby",
+            "baseball"
+        ],
+        [
+            "Ed O'Neill",
+            "football"
+        ],
+        [
+            "Kareem Abdul-Jabbar",
+            "basketball"
+        ],
+        [
+            "Ty Cobb",
+            "baseball"
+        ],
+        [
+            "Dennis Seidenberg",
+            "hockey"
+        ],
+        [
+            "Joe DiMaggio",
+            "baseball"
+        ],
+        [
+            "Dave DeBusschere",
+            "baseball"
+        ],
+        [
+            "Tony Gwynn",
+            "baseball"
+        ],
+        [
+            "Bart Starr",
+            "football"
+        ],
+        [
+            "Lou Gehrig",
+            "baseball"
+        ],
+        [
+            "Grant Hill",
+            "basketball"
+        ],
+        [
+            "O. J. Simpson",
+            "football"
+        ],
+        [
+            "Bill Bradley",
+            "basketball"
+        ],
+        [
+            "Michael Jordan",
+            "basketball"
+        ],
+        [
+            "Leon Allen White",
+            "football"
+        ],
+        [
+            "Torsten Frings",
+            "soccer"
+        ],
+        [
+            "Gonzalo Higuain",
+            "soccer"
+        ],
+        [
+            "Patrick Roy",
+            "hockey"
+        ],
+        [
+            "Alex Rodriguez",
+            "baseball"
+        ],
+        [
+            "Pedro Martinez",
+            "baseball"
+        ],
+        [
+            "Drew Brees",
+            "football"
+        ],
+        [
+            "Howie Morenz",
+            "hockey"
+        ],
+        [
+            "Warren Spahn",
+            "baseball"
+        ],
+        [
+            "Oscar Robertson",
+            "basketball"
+        ],
+        [
+            "Jermain Defoe",
+            "soccer"
+        ],
+        [
+            "Ken Dryden",
+            "hockey"
+        ],
+        [
+            "Woody Strode",
+            "football"
+        ],
+        [
+            "Russell Wilson",
+            "football"
+        ],
+        [
+            "Eric Lindros",
+            "hockey"
+        ],
+        [
+            "John Olerud",
+            "baseball"
+        ],
+        [
+            "Terry Bradshaw",
+            "football"
+        ],
+        [
+            "Pavel Datsyuk",
+            "hockey"
+        ],
+        [
+            "Christy Mathewson",
+            "baseball"
+        ],
+        [
+            "Timothy Brown",
+            "football"
+        ],
+        [
+            "Nelson Valdez",
+            "soccer"
+        ],
+        [
+            "Shaquille O'Neal",
+            "basketball"
+        ],
+        [
+            "Siem de Jong",
+            "soccer"
+        ],
+        [
+            "Dirk Nowitzki",
+            "basketball"
+        ],
+        [
+            "Carlos Bocanegra",
+            "soccer"
+        ],
+        [
+            "Tim Horton",
+            "hockey"
+        ],
+        [
+            "Phil Esposito",
+            "hockey"
+        ],
+        [
+            "Guus Hiddink",
+            "soccer"
+        ],
+        [
+            "Connie Mack",
+            "baseball"
+        ],
+        [
+            "Tim Cahill",
+            "soccer"
+        ],
+        [
+            "George Best",
+            "soccer"
+        ],
+        [
+            "Robbie Rogers",
+            "soccer"
+        ],
+        [
+            "Ichiro Suzuki",
+            "baseball"
+        ],
+        [
+            "LeBron James",
+            "basketball"
+        ],
+        [
+            "Bubba Smith",
+            "football"
+        ],
+        [
+            "Alexander Ovechkin",
+            "hockey"
+        ],
+        [
+            "Efren Navarro",
+            "baseball"
+        ],
+        [
+            "Marcos Mondaini",
+            "soccer"
+        ],
+        [
+            "Scottie Pippen",
+            "basketball"
+        ],
+        [
+            "Marc Gasol",
+            "basketball"
+        ],
+        [
+            "Arne Friedrich",
+            "soccer"
+        ],
+        [
+            "Bob Hayes",
+            "football"
+        ],
+        [
+            "Corey Perry",
+            "hockey"
+        ],
+        [
+            "Fred Williamson",
+            "football"
+        ],
+        [
+            "Karl Malone",
+            "basketball"
+        ],
+        [
+            "Walter Zenga",
+            "soccer"
+        ],
+        [
+            "Kendall Waston",
+            "soccer"
+        ],
+        [
+            "Florent Sinama Pongolle",
+            "soccer"
+        ],
+        [
+            "Freddy Adu",
+            "soccer"
+        ],
+        [
+            "Kevin Durant",
+            "basketball"
+        ],
+        [
+            "Bo Jackson",
+            "baseball"
+        ],
+        [
+            "Tom Brady",
+            "football"
+        ],
+        [
+            "Blaise Matuidi",
+            "soccer"
+        ],
+        [
+            "Alexei Kovalev",
+            "hockey"
+        ],
+        [
+            "Kaka",
+            "soccer"
+        ],
+        [
+            "George Halas",
+            "baseball"
+        ],
+        [
+            "Dick Butkus",
+            "football"
+        ],
+        [
+            "Pavol Demitra",
+            "hockey"
+        ],
+        [
+            "Kasey Keller",
+            "soccer"
+        ],
+        [
+            "Red Grange",
+            "football"
+        ],
+        [
+            "Stan Musial",
+            "baseball"
+        ],
+        [
+            "Billy Sunday",
+            "baseball"
+        ],
+        [
+            "Tommie Smith",
+            "football"
+        ],
+        [
+            "Herculez Gomez",
+            "soccer"
+        ],
+        [
+            "Lionel Conacher",
+            "hockey"
+        ],
+        [
+            "Derek Jeter",
+            "baseball"
+        ],
+        [
+            "Honus Wagner",
+            "baseball"
+        ],
+        [
+            "Mickey Mantle",
+            "baseball"
+        ],
+        [
+            "Bastian Schweinsteiger",
+            "soccer"
+        ],
+        [
+            "Hakeem Olajuwon",
+            "basketball"
+        ],
+        [
+            "Allen Iverson",
+            "basketball"
+        ],
+        [
+            "Marco Di Vaio",
+            "soccer"
+        ],
+        [
+            "Tom Seaver",
+            "baseball"
+        ],
+        [
+            "Jozy Altidore",
+            "soccer"
+        ],
+        [
+            "Tim Duncan",
+            "basketball"
+        ],
+        [
+            "Chase Young",
+            "football"
+        ],
+        [
+            "Brett Favre",
+            "football"
+        ],
+        [
+            "Michael Strahan",
+            "football"
+        ],
+        [
+            "Sergei Makarov",
+            "hockey"
+        ],
+        [
+            "Danny Ainge",
+            "baseball"
+        ],
+        [
+            "Barry Bonds",
+            "baseball"
+        ],
+        [
+            "Roger Staubach",
+            "football"
+        ],
+        [
+            "Roy Campanella",
+            "baseball"
+        ],
+        [
+            "Kevin Love",
+            "basketball"
+        ],
+        [
+            "Wilt Chamberlain",
+            "basketball"
+        ],
+        [
+            "Youri Djorkaeff",
+            "soccer"
+        ],
+        [
+            "Steve Yzerman",
+            "hockey"
+        ],
+        [
+            "Dean Cain",
+            "football"
+        ],
+        [
+            "Don Shula",
+            "football"
+        ],
+        [
+            "Bronko Nagurski",
+            "football"
+        ],
+        [
+            "Ara Parseghian",
+            "football"
+        ],
+        [
+            "Lutz Pfannenstiel",
+            "soccer"
+        ],
+        [
+            "Frank Robinson",
+            "baseball"
+        ],
+        [
+            "Emmitt Smith",
+            "football"
+        ],
+        [
+            "Brian Bosworth",
+            "football"
+        ],
+        [
+            "Terry Sawchuk",
+            "hockey"
+        ],
+        [
+            "Pete Rose",
+            "baseball"
+        ],
+        [
+            "Bob Gibson",
+            "baseball"
+        ],
+        [
+            "Steve Nash",
+            "basketball"
+        ],
+        [
+            "Randy Moss",
+            "football"
+        ],
+        [
+            "Johnny Unitas",
+            "football"
+        ],
+        [
+            "Willie Stargell",
+            "baseball"
+        ],
+        [
+            "Jarome Iginla",
+            "hockey"
+        ],
+        [
+            "Cam Newton",
+            "football"
+        ],
+        [
+            "Babe Ruth",
+            "baseball"
+        ],
+        [
+            "Gary Payton",
+            "basketball"
+        ],
+        [
+            "Brett Hull",
+            "hockey"
+        ],
+        [
+            "Mark Messier",
+            "hockey"
+        ],
+        [
+            "Kevin Garnett",
+            "basketball"
+        ],
+        [
+            "Tony Parker",
+            "basketball"
+        ],
+        [
+            "Moses Malone",
+            "basketball"
+        ],
+        [
+            "Alex Karras",
+            "football"
+        ],
+        [
+            "Jack Kemp",
+            "football"
+        ],
+        [
+            "Jerry West",
+            "basketball"
+        ],
+        [
+            "Stan Mikita",
+            "hockey"
+        ],
+        [
+            "Lawrence Taylor",
+            "football"
+        ],
+        [
+            "Hristo Stoichkov",
+            "soccer"
+        ],
+        [
+            "Ron W. Miller",
+            "football"
+        ],
+        [
+            "Elroy Hirsch",
+            "football"
+        ],
+        [
+            "Ernie Banks",
+            "baseball"
+        ],
+        [
+            "Roger Maris",
+            "baseball"
+        ],
+        [
+            "Tim Howard",
+            "soccer"
+        ],
+        [
+            "Larry Bird",
+            "basketball"
+        ],
+        [
+            "Carl Weathers",
+            "football"
+        ],
+        [
+            "Kenny Lofton",
+            "baseball"
+        ],
+        [
+            "Nick Swisher",
+            "baseball"
+        ],
+        [
+            "Shane Doan",
+            "hockey"
+        ],
+        [
+            "John Elway",
+            "football"
+        ],
+        [
+            "David Villa",
+            "soccer"
+        ],
+        [
+            "Terry Crews",
+            "football"
+        ],
+        [
+            "Jacques Plante",
+            "hockey"
+        ],
+        [
+            "Nigel de Jong",
+            "soccer"
+        ],
+        [
+            "Olumide Oyedeji",
+            "basketball"
+        ],
+        [
+            "Obafemi Martins",
+            "soccer"
+        ],
+        [
+            "Daniel Santiago",
+            "basketball"
+        ],
+        [
+            "Evgeni Malkin",
+            "hockey"
+        ],
+        [
+            "Mauricio Wright",
+            "soccer"
+        ],
+        [
+            "Ilya Kovalchuk",
+            "hockey"
+        ],
+        [
+            "Frank Lampard",
+            "soccer"
+        ],
+        [
+            "Peter Forsberg",
+            "hockey"
+        ],
+        [
+            "Claudio Reyna",
+            "soccer"
+        ],
+        [
+            "Boris Diaw",
+            "basketball"
+        ],
+        [
+            "Nate Schierholtz",
+            "baseball"
+        ],
+        [
+            "Warren Moon",
+            "football"
+        ],
+        [
+            "Julius Erving",
+            "basketball"
+        ],
+        [
+            "Maurice Richard",
+            "hockey"
+        ],
+        [
+            "Rick Barry",
+            "basketball"
+        ],
+        [
+            "Jason Kidd",
+            "basketball"
+        ],
+        [
+            "Benny Feilhaber",
+            "soccer"
+        ],
+        [
+            "Juninho Pernambucano",
+            "soccer"
+        ],
+        [
+            "Guy Lafleur",
+            "hockey"
+        ],
+        [
+            "Alexi Lalas",
+            "soccer"
+        ],
+        [
+            "Kobe Bryant",
+            "basketball"
+        ],
+        [
+            "Dwight Howard",
+            "basketball"
+        ],
+        [
+            "Clayton Kershaw",
+            "baseball"
+        ],
+        [
+            "Dwyane Wade",
+            "basketball"
+        ],
+        [
+            "George Plimpton",
+            "football"
+        ],
+        [
+            "Yu Darvish",
+            "baseball"
+        ],
+        [
+            "Hope Solo",
+            "soccer"
+        ],
+        [
+            "Giovani dos Santos",
+            "soccer"
+        ],
+        [
+            "Casey Stengel",
+            "baseball"
+        ],
+        [
+            "Walter Payton",
+            "football"
+        ],
+        [
+            "Rosey Grier",
+            "football"
+        ],
+        [
+            "Raimo Helminen",
+            "hockey"
+        ],
+        [
+            "Carmelo Anthony",
+            "basketball"
+        ],
+        [
+            "Bill Goldberg",
+            "football"
+        ],
+        [
+            "Nani",
+            "soccer"
+        ],
+        [
+            "Pau Gasol",
+            "basketball"
+        ],
+        [
+            "Bashkim Kadrii",
+            "soccer"
+        ],
+        [
+            "Frank Mahovlich",
+            "hockey"
+        ],
+        [
+            "Tony Dungy",
+            "football"
+        ],
+        [
+            "Ollie Matson",
+            "football"
+        ],
+        [
+            "Phil Jackson",
+            "basketball"
+        ],
+        [
+            "Len Ford",
+            "football"
+        ],
+        [
+            "Colin Kaepernick",
+            "football"
+        ],
+        [
+            "Gordie Howe",
+            "hockey"
+        ],
+        [
+            "Joe Namath",
+            "football"
+        ],
+        [
+            "Patrick Ewing",
+            "basketball"
+        ],
+        [
+            "Merlin Olsen",
+            "football"
+        ],
+        [
+            "Dan Marino",
+            "football"
+        ],
+        [
+            "Jim Thorpe",
+            "baseball"
+        ],
+        [
+            "Dave Winfield",
+            "baseball"
+        ],
+        [
+            "John Matuszak",
+            "football"
+        ],
+        [
+            "Wim Suurbier",
+            "soccer"
+        ],
+        [
+            "Yogi Berra",
+            "baseball"
+        ],
+        [
+            "Emanuel Pogatetz",
+            "soccer"
+        ],
+        [
+            "Roman Reigns",
+            "football"
+        ],
+        [
+            "Steven Gerrard",
+            "soccer"
+        ],
+        [
+            "Egidio Rios",
+            "soccer"
+        ],
+        [
+            "Ted Williams",
+            "baseball"
+        ],
+        [
+            "Wayne Rooney",
+            "soccer"
+        ],
+        [
+            "Robbie Keane",
+            "soccer"
+        ],
+        [
+            "Wayne Gretzky",
+            "hockey"
+        ],
+        [
+            "Rick Fox",
+            "basketball"
+        ],
+        [
+            "Deion Sanders",
+            "baseball"
+        ],
+        [
+            "Javier Hernandez",
+            "soccer"
+        ],
+        [
+            "Frank Gifford",
+            "football"
+        ],
+        [
+            "David Andersen",
+            "basketball"
+        ],
+        [
+            "Hank Greenberg",
+            "baseball"
+        ],
+        [
+            "Viacheslav Fetisov",
+            "hockey"
+        ],
+        [
+            "Mario Lemieux",
+            "hockey"
+        ],
+        [
+            "Thierry Henry",
+            "soccer"
+        ],
+        [
+            "Stephen Curry",
+            "basketball"
+        ],
+        [
+            "Brock Lesnar",
+            "football"
+        ],
+        [
+            "Chuck Connors",
+            "baseball"
+        ],
+        [
+            "Bill Russell",
+            "basketball"
+        ],
+        [
+            "Jermaine Jones",
+            "soccer"
+        ],
+        [
+            "Jackie Robinson",
+            "baseball"
+        ],
+        [
+            "Charles Barkley",
+            "basketball"
+        ],
+        [
+            "Paul Kariya",
+            "hockey"
+        ],
+        [
+            "Jim Brown",
+            "football"
+        ],
+        [
+            "Yao Ming",
+            "basketball"
+        ],
+        [
+            "Pavel Bure",
+            "hockey"
+        ],
+        [
+            "Peyton Manning",
+            "football"
+        ],
+        [
+            "Megan Rapinoe",
+            "soccer"
+        ],
+        [
+            "Michael Phelps",
+            "swimming"
+        ],
+        [
+            "Serena Williams",
+            "tennis"
+        ],
+        [
+            "Usain Bolt",
+            "sprinting"
+        ],
+        [
+            "Tiger Woods",
+            "golf"
+        ],
+        [
+            "Tom Brady",
+            "football"
+        ],
+        [
+            "Cristiano Ronaldo",
+            "soccer"
+        ],
+        [
+            "Lionel Messi",
+            "soccer"
+        ]
+    ],
+    "Consider [X].\nWhich country is this landmark in? Answer in a single word.": [
+        [
+            "Delphi",
+            "Greece"
+        ],
+        [
+            "Mount Kilimanjaro",
+            "Tanzania"
+        ],
+        [
+            "Ngorongoro Crater",
+            "Tanzania"
+        ],
+        [
+            "Victoria Falls",
+            "Zimbabwe"
+        ],
+        [
+            "Okavango Delta",
+            "Botswana"
+        ],
+        [
+            "Namib Desert",
+            "Namibia"
+        ],
+        [
+            "Kilkenny Castle",
+            "Ireland"
+        ],
+        [
+            "Lake Ness",
+            "UK"
+        ],
+        [
+            "Jungfraujoch",
+            "Switzerland"
+        ],
+        [
+            "Hallstatt",
+            "Austria"
+        ],
+        [
+            "Sintra Palaces",
+            "Portugal"
+        ],
+        [
+            "Lake Baikal",
+            "Russia"
+        ],
+        [
+            "Karnak Temple",
+            "Egypt"
+        ],
+        [
+            "Abu Simbel",
+            "Egypt"
+        ],
+        [
+            "Siwa Oasis",
+            "Egypt"
+        ],
+        [
+            "Meteora Monasteries",
+            "Greece"
+        ],
+        [
+            "Cliffs of Moher",
+            "Ireland"
+        ],
+        [
+            "Ring of Kerry",
+            "Ireland"
+        ],
+        [
+            "Cotswolds",
+            "UK"
+        ],
+        [
+            "Dordogne Valley",
+            "France"
+        ],
+        [
+            "Cinque Terre",
+            "Italy"
+        ],
+        [
+            "Amalfi Coast",
+            "Italy"
+        ],
+        [
+            "Lake Como",
+            "Italy"
+        ],
+        [
+            "Tuscany Countryside",
+            "Italy"
+        ],
+        [
+            "Plaza Mayor",
+            "Spain"
+        ],
+        [
+            "Algarve Beaches",
+            "Portugal"
+        ],
+        [
+            "Douro Valley",
+            "Portugal"
+        ],
+        [
+            "Bruges Canals",
+            "Belgium"
+        ],
+        [
+            "Ghent Altarpiece",
+            "Belgium"
+        ],
+        [
+            "Kinderdijk",
+            "Netherlands"
+        ],
+        [
+            "Keukenhof Gardens",
+            "Netherlands"
+        ],
+        [
+            "Black Forest",
+            "Germany"
+        ],
+        [
+            "Romantic Road",
+            "Germany"
+        ],
+        [
+            "Neuschwanstein Castle",
+            "Germany"
+        ],
+        [
+            "Dubrovnik City Walls",
+            "Croatia"
+        ],
+        [
+            "Budva Old Town",
+            "Montenegro"
+        ],
+        [
+            "Plitvice Lakes",
+            "Croatia"
+        ],
+        [
+            "Sveti Stefan",
+            "Montenegro"
+        ],
+        [
+            "Suomenlinna Fortress",
+            "Finland"
+        ],
+        [
+            "Geirangerfjord",
+            "Norway"
+        ],
+        [
+            "Big Sur",
+            "USA"
+        ],
+        [
+            "Route 66",
+            "USA"
+        ],
+        [
+            "Times Square",
+            "USA"
+        ],
+        [
+            "Central Park",
+            "USA"
+        ],
+        [
+            "Pochepsky District",
+            "Russia"
+        ],
+        [
+            "Kuala Langat",
+            "Malaysia"
+        ],
+        [
+            "Hohenlohe-Langenburg",
+            "Germany"
+        ],
+        [
+            "Bastille",
+            "France"
+        ],
+        [
+            "Valdemarsvik",
+            "Sweden"
+        ],
+        [
+            "Ozumba",
+            "Mexico"
+        ],
+        [
+            "Piper Verlag",
+            "Germany"
+        ],
+        [
+            "Attingal",
+            "India"
+        ],
+        [
+            "Georgians",
+            "Azerbaijan"
+        ],
+        [
+            "Nizampatnam",
+            "India"
+        ],
+        [
+            "Olot",
+            "Spain"
+        ],
+        [
+            "Darmstadt",
+            "Germany"
+        ],
+        [
+            "Adliswil",
+            "Switzerland"
+        ],
+        [
+            "Junnar",
+            "India"
+        ],
+        [
+            "Kandiaro Taluka",
+            "Pakistan"
+        ],
+        [
+            "Yoro",
+            "Honduras"
+        ],
+        [
+            "Knockmealdown Mountains",
+            "Ireland"
+        ],
+        [
+            "Calw",
+            "Germany"
+        ],
+        [
+            "Borovsky District",
+            "Russia"
+        ],
+        [
+            "Kyoto University",
+            "Japan"
+        ],
+        [
+            "Medaram",
+            "India"
+        ],
+        [
+            "Kosi Zone",
+            "Nepal"
+        ],
+        [
+            "Kfar Giladi",
+            "Israel"
+        ],
+        [
+            "Mandara Mountains",
+            "Nigeria"
+        ],
+        [
+            "Agios Dimitrios",
+            "Greece"
+        ],
+        [
+            "Noliko Maaseik",
+            "Belgium"
+        ],
+        [
+            "Imsland",
+            "Norway"
+        ],
+        [
+            "Hultsfred Municipality",
+            "Sweden"
+        ],
+        [
+            "Al Daayen",
+            "Qatar"
+        ],
+        [
+            "Hurley River",
+            "Canada"
+        ],
+        [
+            "Pontecorvo",
+            "Italy"
+        ],
+        [
+            "Ustevatn",
+            "Norway"
+        ],
+        [
+            "Acolman Municipality",
+            "Mexico"
+        ],
+        [
+            "Liverpool Range",
+            "Australia"
+        ],
+        [
+            "Nova Friburgo",
+            "Brazil"
+        ],
+        [
+            "Jan Amora",
+            "Ethiopia"
+        ],
+        [
+            "KiKa",
+            "Germany"
+        ],
+        [
+            "Canjuers",
+            "France"
+        ],
+        [
+            "Giurgiu County",
+            "Romania"
+        ],
+        [
+            "La Mauricie National Park",
+            "Canada"
+        ],
+        [
+            "Ballydehob",
+            "Ireland"
+        ],
+        [
+            "Rankuh District",
+            "Iran"
+        ],
+        [
+            "Khasavyurt",
+            "Russia"
+        ],
+        [
+            "Capolago",
+            "Switzerland"
+        ],
+        [
+            "Ateneo de Madrid",
+            "Spain"
+        ],
+        [
+            "Toronto Police Service",
+            "Canada"
+        ],
+        [
+            "Pilis Mountains",
+            "Hungary"
+        ],
+        [
+            "Lake Caliraya",
+            "Philippines"
+        ],
+        [
+            "Eiffel Tower",
+            "France"
+        ],
+        [
+            "Neryungri",
+            "Russia"
+        ],
+        [
+            "New England",
+            "Australia"
+        ],
+        [
+            "Lower Assam",
+            "India"
+        ],
+        [
+            "Bad Vilbel",
+            "Germany"
+        ],
+        [
+            "Dawa River",
+            "Somalia"
+        ],
+        [
+            "Kayunga District",
+            "Uganda"
+        ],
+        [
+            "Kamikita District",
+            "Japan"
+        ],
+        [
+            "Bobolice",
+            "Poland"
+        ],
+        [
+            "Barnhartvale, Kamloops",
+            "Canada"
+        ],
+        [
+            "Norfolk Air",
+            "Australia"
+        ],
+        [
+            "Sakarya Province",
+            "Turkey"
+        ],
+        [
+            "Zwiefalten",
+            "Germany"
+        ],
+        [
+            "Narman",
+            "Turkey"
+        ],
+        [
+            "Bliesgau",
+            "Germany"
+        ],
+        [
+            "Iximche",
+            "Guatemala"
+        ],
+        [
+            "Thuringian Highland",
+            "Germany"
+        ],
+        [
+            "Mudgee",
+            "Australia"
+        ],
+        [
+            "Tursi",
+            "Italy"
+        ],
+        [
+            "Kalvola",
+            "Finland"
+        ],
+        [
+            "Registro",
+            "Brazil"
+        ],
+        [
+            "East Wall",
+            "Ireland"
+        ],
+        [
+            "Augusta Raurica",
+            "Switzerland"
+        ],
+        [
+            "Bilbao",
+            "Spain"
+        ],
+        [
+            "Sarnaki",
+            "Poland"
+        ],
+        [
+            "Peremyshliany",
+            "Ukraine"
+        ],
+        [
+            "Bilohirsk Raion",
+            "Russia"
+        ],
+        [
+            "Etobicoke North",
+            "Canada"
+        ],
+        [
+            "Singel",
+            "Netherlands"
+        ],
+        [
+            "Borgo San Martino",
+            "Italy"
+        ],
+        [
+            "Garibaldi Ranges",
+            "Canada"
+        ],
+        [
+            "Hong San See",
+            "Singapore"
+        ],
+        [
+            "Amsterdam dance event",
+            "Netherlands"
+        ],
+        [
+            "Subarnapur district",
+            "India"
+        ],
+        [
+            "Pannonhalma Archabbey",
+            "Hungary"
+        ],
+        [
+            "Sydney Hospital",
+            "Australia"
+        ],
+        [
+            "Hohenwestedt",
+            "Germany"
+        ],
+        [
+            "Kibungo Province",
+            "Rwanda"
+        ],
+        [
+            "Harnaut",
+            "India"
+        ],
+        [
+            "Westerburg",
+            "Germany"
+        ],
+        [
+            "Menangle Park",
+            "Australia"
+        ],
+        [
+            "Palais de l'Industrie",
+            "France"
+        ],
+        [
+            "Kahrizak",
+            "Iran"
+        ],
+        [
+            "Mahalangur Himal",
+            "Nepal"
+        ],
+        [
+            "Munich Residence",
+            "Germany"
+        ],
+        [
+            "Marugame",
+            "Japan"
+        ],
+        [
+            "Lutvann",
+            "Norway"
+        ],
+        [
+            "Pesisir Selatan",
+            "Indonesia"
+        ],
+        [
+            "Pakpattan",
+            "Pakistan"
+        ],
+        [
+            "Kanchanaburi",
+            "Thailand"
+        ],
+        [
+            "Lleida",
+            "Spain"
+        ],
+        [
+            "Leap Castle",
+            "Ireland"
+        ],
+        [
+            "Saint-Jacques-de-la-Lande",
+            "France"
+        ],
+        [
+            "Ankenes",
+            "Norway"
+        ],
+        [
+            "Hyderabad Deccan railway station",
+            "India"
+        ],
+        [
+            "Higashikagawa",
+            "Japan"
+        ],
+        [
+            "Amos Anderson Art Museum",
+            "Finland"
+        ],
+        [
+            "Cocconato",
+            "Italy"
+        ],
+        [
+            "Arve",
+            "France"
+        ],
+        [
+            "Nuri",
+            "Sudan"
+        ],
+        [
+            "Pontigny Abbey",
+            "France"
+        ],
+        [
+            "Kununurra",
+            "Australia"
+        ],
+        [
+            "Augustdorf",
+            "Germany"
+        ],
+        [
+            "Kaniv Reservoir",
+            "Ukraine"
+        ],
+        [
+            "Trento",
+            "Italy"
+        ],
+        [
+            "Sidhi district",
+            "India"
+        ],
+        [
+            "Heptapyrgion",
+            "Greece"
+        ],
+        [
+            "Sena Medal",
+            "India"
+        ],
+        [
+            "Piove di Sacco",
+            "Italy"
+        ],
+        [
+            "Bird's Head Peninsula",
+            "Indonesia"
+        ],
+        [
+            "Elgin West",
+            "Canada"
+        ],
+        [
+            "Ticho House",
+            "Israel"
+        ],
+        [
+            "House of Representatives",
+            "Libya"
+        ],
+        [
+            "Ust-Katav",
+            "Russia"
+        ],
+        [
+            "Stentoften Runestone",
+            "Sweden"
+        ],
+        [
+            "Alte Nationalgalerie",
+            "Germany"
+        ],
+        [
+            "Jafara",
+            "Libya"
+        ],
+        [
+            "Ljig",
+            "Serbia"
+        ],
+        [
+            "Vierlingsbeek",
+            "Netherlands"
+        ],
+        [
+            "Ferrobaires",
+            "Argentina"
+        ],
+        [
+            "Bugis Junction",
+            "Singapore"
+        ],
+        [
+            "Were Ilu",
+            "Ethiopia"
+        ],
+        [
+            "San Canzian d'Isonzo",
+            "Italy"
+        ],
+        [
+            "Stara Zagora",
+            "Bulgaria"
+        ],
+        [
+            "Simeulue",
+            "Indonesia"
+        ],
+        [
+            "Tinguiririca River",
+            "Chile"
+        ],
+        [
+            "Aucanquilcha",
+            "Chile"
+        ],
+        [
+            "Cayeux-sur-Mer",
+            "France"
+        ],
+        [
+            "Indus River",
+            "India"
+        ],
+        [
+            "Guldborg",
+            "Denmark"
+        ],
+        [
+            "Papantla",
+            "Mexico"
+        ],
+        [
+            "Kottarakkara",
+            "India"
+        ],
+        [
+            "Risod",
+            "India"
+        ],
+        [
+            "Ky\u014dto Prefecture",
+            "Japan"
+        ],
+        [
+            "Helsinki City Hall",
+            "Finland"
+        ],
+        [
+            "Bad Schwalbach",
+            "Germany"
+        ],
+        [
+            "Uromi",
+            "Nigeria"
+        ],
+        [
+            "Lambunao",
+            "Philippines"
+        ],
+        [
+            "Bhamdoun",
+            "Lebanon"
+        ],
+        [
+            "Loppa",
+            "Norway"
+        ],
+        [
+            "Trigono",
+            "Greece"
+        ],
+        [
+            "Entzheim",
+            "France"
+        ],
+        [
+            "Trans-Sahara Highway",
+            "Nigeria"
+        ],
+        [
+            "Umarex",
+            "Germany"
+        ],
+        [
+            "Cunter",
+            "Switzerland"
+        ],
+        [
+            "Tarn-et-Garonne",
+            "France"
+        ],
+        [
+            "Gavrilovo-Posadsky District",
+            "Russia"
+        ],
+        [
+            "Bangarapet",
+            "India"
+        ],
+        [
+            "Tinapa Resort",
+            "Nigeria"
+        ],
+        [
+            "Maya River",
+            "Russia"
+        ],
+        [
+            "Media Development Authority",
+            "Singapore"
+        ],
+        [
+            "Zbuczyn",
+            "Poland"
+        ],
+        [
+            "Inuit Circumpolar Council",
+            "Canada"
+        ],
+        [
+            "Bannu",
+            "Pakistan"
+        ],
+        [
+            "Zaraysky District",
+            "Russia"
+        ],
+        [
+            "Tienen",
+            "Belgium"
+        ],
+        [
+            "Camarate",
+            "Portugal"
+        ],
+        [
+            "Karimnagar district",
+            "India"
+        ],
+        [
+            "Guillaumes",
+            "France"
+        ],
+        [
+            "Rottumerplaat",
+            "Netherlands"
+        ],
+        [
+            "Art Gallery of Ontario",
+            "Canada"
+        ],
+        [
+            "Taksim Military Barracks",
+            "Turkey"
+        ],
+        [
+            "Goseck circle",
+            "Germany"
+        ],
+        [
+            "Kaunas Cathedral Basilica",
+            "Lithuania"
+        ],
+        [
+            "Rantum",
+            "Germany"
+        ],
+        [
+            "Al-Hasakah Governorate",
+            "Syria"
+        ],
+        [
+            "Amarkantak",
+            "India"
+        ],
+        [
+            "Manila Bay",
+            "Philippines"
+        ],
+        [
+            "Blackrock Castle",
+            "Ireland"
+        ],
+        [
+            "Beauvais",
+            "France"
+        ],
+        [
+            "Annweiler am Trifels",
+            "Germany"
+        ],
+        [
+            "Circuit des Ardennes",
+            "Belgium"
+        ],
+        [
+            "Konark Sun temple",
+            "India"
+        ],
+        [
+            "County Leitrim",
+            "Ireland"
+        ],
+        [
+            "Arsk",
+            "Russia"
+        ],
+        [
+            "E.ON Sverige",
+            "Sweden"
+        ],
+        [
+            "Veyrier",
+            "Switzerland"
+        ],
+        [
+            "Pindamonhangaba",
+            "Brazil"
+        ],
+        [
+            "Montemitro",
+            "Italy"
+        ],
+        [
+            "Ikaalinen",
+            "Finland"
+        ],
+        [
+            "CD Eldense",
+            "Spain"
+        ],
+        [
+            "Rio Quente",
+            "Brazil"
+        ],
+        [
+            "Wismar",
+            "Germany"
+        ],
+        [
+            "Naruto Strait",
+            "Japan"
+        ],
+        [
+            "Waalhaven",
+            "Netherlands"
+        ],
+        [
+            "Atwell Peak",
+            "Canada"
+        ],
+        [
+            "Sadr City",
+            "Iraq"
+        ],
+        [
+            "Palladam",
+            "India"
+        ],
+        [
+            "Orpheus Island National Park",
+            "Australia"
+        ],
+        [
+            "Achelous River",
+            "Greece"
+        ],
+        [
+            "Sapo National Park",
+            "Liberia"
+        ],
+        [
+            "Poissy",
+            "France"
+        ],
+        [
+            "Shichikashuku",
+            "Japan"
+        ],
+        [
+            "Bhinmal",
+            "India"
+        ],
+        [
+            "Bourg-la-Reine",
+            "France"
+        ],
+        [
+            "Nagoya University",
+            "Japan"
+        ],
+        [
+            "Coolock",
+            "Ireland"
+        ],
+        [
+            "Battle of Montereau",
+            "France"
+        ],
+        [
+            "Theni district",
+            "India"
+        ],
+        [
+            "Galiano Island",
+            "Canada"
+        ],
+        [
+            "Kluuvi",
+            "Finland"
+        ],
+        [
+            "Buchans",
+            "Canada"
+        ],
+        [
+            "Bungsberg",
+            "Germany"
+        ],
+        [
+            "Piazza al Serchio",
+            "Italy"
+        ],
+        [
+            "Bogra Zilla School",
+            "Bangladesh"
+        ],
+        [
+            "Ruhla",
+            "Germany"
+        ],
+        [
+            "Langarud County",
+            "Iran"
+        ],
+        [
+            "Bolvadin",
+            "Turkey"
+        ],
+        [
+            "Ufa",
+            "Russia"
+        ],
+        [
+            "Miramichi Centre",
+            "Canada"
+        ],
+        [
+            "Ulpiana",
+            "Kosovo"
+        ],
+        [
+            "L'Escala",
+            "Spain"
+        ],
+        [
+            "Hohenlohe",
+            "Germany"
+        ],
+        [
+            "Bunda District",
+            "Tanzania"
+        ],
+        [
+            "Mbale District",
+            "Uganda"
+        ],
+        [
+            "Habitat 67",
+            "Canada"
+        ],
+        [
+            "Nishi-Matsuura District",
+            "Japan"
+        ],
+        [
+            "Moscato d'Asti",
+            "Italy"
+        ],
+        [
+            "Namba Station",
+            "Japan"
+        ],
+        [
+            "Uda District",
+            "Japan"
+        ],
+        [
+            "Sabratha",
+            "Libya"
+        ],
+        [
+            "Shoranur",
+            "India"
+        ],
+        [
+            "Komarichsky District",
+            "Russia"
+        ],
+        [
+            "Niederweningen",
+            "Switzerland"
+        ],
+        [
+            "Tarnobrzeg Voivodeship",
+            "Poland"
+        ],
+        [
+            "Wabush Airport",
+            "Canada"
+        ],
+        [
+            "Fairfield West",
+            "Australia"
+        ],
+        [
+            "Lahti",
+            "Finland"
+        ],
+        [
+            "Kitakami Station",
+            "Japan"
+        ],
+        [
+            "Vaujany",
+            "France"
+        ],
+        [
+            "Tartessos",
+            "Spain"
+        ],
+        [
+            "Vinkeveen",
+            "Netherlands"
+        ],
+        [
+            "Asian Highway Network",
+            "India"
+        ],
+        [
+            "Breege",
+            "Germany"
+        ],
+        [
+            "Beneden Merwede",
+            "Netherlands"
+        ],
+        [
+            "Prieto Diaz",
+            "Philippines"
+        ],
+        [
+            "Hitachinaka",
+            "Japan"
+        ],
+        [
+            "Villa La Pietra",
+            "Italy"
+        ],
+        [
+            "Papanasam",
+            "India"
+        ],
+        [
+            "Strait of Kerch",
+            "Russia"
+        ],
+        [
+            "Bolpur",
+            "India"
+        ],
+        [
+            "Mosque of Uqba",
+            "Tunisia"
+        ],
+        [
+            "Pinosava",
+            "Serbia"
+        ],
+        [
+            "Mezhdurechensky District",
+            "Russia"
+        ],
+        [
+            "Kharga Oasis",
+            "Egypt"
+        ],
+        [
+            "Fischenthal",
+            "Switzerland"
+        ],
+        [
+            "Parippally",
+            "India"
+        ],
+        [
+            "Fawkner",
+            "Australia"
+        ],
+        [
+            "Didymoteicho",
+            "Greece"
+        ],
+        [
+            "Kojur District",
+            "Iran"
+        ],
+        [
+            "Tell Rifaat",
+            "Syria"
+        ],
+        [
+            "Ginza Line",
+            "Japan"
+        ],
+        [
+            "Landskrona BoIS",
+            "Sweden"
+        ],
+        [
+            "Queens Gardens, Brisbane",
+            "Australia"
+        ],
+        [
+            "Noyon",
+            "France"
+        ],
+        [
+            "Perpignan",
+            "France"
+        ],
+        [
+            "Beles River",
+            "Ethiopia"
+        ],
+        [
+            "Dewa Province",
+            "Japan"
+        ],
+        [
+            "Sebatik Island",
+            "Malaysia"
+        ],
+        [
+            "Sarnia",
+            "Canada"
+        ],
+        [
+            "Suwayq",
+            "Oman"
+        ],
+        [
+            "South East Cape",
+            "Australia"
+        ],
+        [
+            "Abbey of Echternach",
+            "Luxembourg"
+        ],
+        [
+            "N-340 road",
+            "Spain"
+        ],
+        [
+            "Band-e Kaisar",
+            "Iran"
+        ],
+        [
+            "Valvasone",
+            "Italy"
+        ],
+        [
+            "Mewat",
+            "India"
+        ],
+        [
+            "Koriya district",
+            "India"
+        ],
+        [
+            "Birendranagar",
+            "Nepal"
+        ],
+        [
+            "Kondotty",
+            "India"
+        ],
+        [
+            "Toulouges",
+            "France"
+        ],
+        [
+            "Puerto Maldonado",
+            "Peru"
+        ],
+        [
+            "Boinpalle mandal",
+            "India"
+        ],
+        [
+            "Everberg",
+            "Belgium"
+        ],
+        [
+            "Novokuybyshevsk",
+            "Russia"
+        ],
+        [
+            "City of Cranbourne",
+            "Australia"
+        ],
+        [
+            "Adare Manor",
+            "Ireland"
+        ],
+        [
+            "Flieden",
+            "Germany"
+        ],
+        [
+            "North Middlesex, Ontario",
+            "Canada"
+        ],
+        [
+            "Frasnes-lez-Anvaing",
+            "Belgium"
+        ],
+        [
+            "Lamongan",
+            "Indonesia"
+        ],
+        [
+            "Penna Ahobilam",
+            "India"
+        ],
+        [
+            "Teatro Comunale Florence",
+            "Italy"
+        ],
+        [
+            "Skole Raion",
+            "Ukraine"
+        ],
+        [
+            "County Carlow",
+            "Ireland"
+        ],
+        [
+            "Mumiy Troll",
+            "Russia"
+        ],
+        [
+            "Vukov Spomenik",
+            "Serbia"
+        ],
+        [
+            "Tillya Tepe",
+            "Afghanistan"
+        ],
+        [
+            "Linimo",
+            "Japan"
+        ],
+        [
+            "Surat Basin",
+            "Australia"
+        ],
+        [
+            "Foothills-Rocky View",
+            "Canada"
+        ],
+        [
+            "Chaville",
+            "France"
+        ],
+        [
+            "Lannemezan",
+            "France"
+        ],
+        [
+            "Asian Highway Network",
+            "Turkey"
+        ],
+        [
+            "Guggenheim Museum",
+            "Spain"
+        ],
+        [
+            "Manyakheta",
+            "India"
+        ],
+        [
+            "Madala",
+            "India"
+        ],
+        [
+            "Garabit viaduct",
+            "France"
+        ],
+        [
+            "Alouette Lake",
+            "Canada"
+        ],
+        [
+            "Rathen",
+            "Germany"
+        ],
+        [
+            "Hornnes",
+            "Norway"
+        ],
+        [
+            "Lerik District",
+            "Azerbaijan"
+        ],
+        [
+            "Buda",
+            "Hungary"
+        ],
+        [
+            "Waldshut-Tiengen",
+            "Germany"
+        ],
+        [
+            "Les Bons Villers",
+            "Belgium"
+        ],
+        [
+            "Askola",
+            "Finland"
+        ],
+        [
+            "Wellington Island",
+            "Chile"
+        ],
+        [
+            "Hobart Zoo",
+            "Australia"
+        ],
+        [
+            "Kume District",
+            "Japan"
+        ],
+        [
+            "Simdega",
+            "India"
+        ],
+        [
+            "Yadagirigutta Temple",
+            "India"
+        ],
+        [
+            "Honnavar",
+            "India"
+        ],
+        [
+            "Romano d'Ezzelino",
+            "Italy"
+        ],
+        [
+            "Buchan",
+            "Australia"
+        ],
+        [
+            "Munich",
+            "Germany"
+        ],
+        [
+            "Little Stirrup Cay",
+            "Bahamas"
+        ],
+        [
+            "Tampere Cathedral",
+            "Finland"
+        ],
+        [
+            "Sonitpur district",
+            "India"
+        ],
+        [
+            "Chancelade",
+            "France"
+        ],
+        [
+            "Boguchany Dam",
+            "Russia"
+        ],
+        [
+            "Hagenow",
+            "Germany"
+        ],
+        [
+            "La Guajira Desert",
+            "Colombia"
+        ],
+        [
+            "Helmbrechts",
+            "Germany"
+        ],
+        [
+            "La Ribera Baixa",
+            "Spain"
+        ],
+        [
+            "Canton of Schaffhausen",
+            "Switzerland"
+        ],
+        [
+            "AMK Hub",
+            "Singapore"
+        ],
+        [
+            "Taronga Western Plains Zoo",
+            "Australia"
+        ],
+        [
+            "regiopolis",
+            "Germany"
+        ],
+        [
+            "Gio Linh",
+            "Vietnam"
+        ],
+        [
+            "Zelenchukskaya",
+            "Russia"
+        ],
+        [
+            "Valdichiana",
+            "Italy"
+        ],
+        [
+            "Kazinga Channel",
+            "Uganda"
+        ],
+        [
+            "Columbia Valley",
+            "Canada"
+        ],
+        [
+            "Wazzin",
+            "Libya"
+        ],
+        [
+            "Tiv people",
+            "Nigeria"
+        ],
+        [
+            "Cubagua",
+            "Venezuela"
+        ],
+        [
+            "Nobel Peace Center",
+            "Norway"
+        ],
+        [
+            "Frosinone",
+            "Italy"
+        ],
+        [
+            "Plougonven",
+            "France"
+        ],
+        [
+            "National Congress of Brasil",
+            "Brazil"
+        ],
+        [
+            "Piedecuesta",
+            "Colombia"
+        ],
+        [
+            "Gjerpen",
+            "Norway"
+        ],
+        [
+            "Schleitheim",
+            "Switzerland"
+        ],
+        [
+            "Mont Saint-Bruno",
+            "Canada"
+        ],
+        [
+            "Thiruvattar",
+            "India"
+        ],
+        [
+            "Erbil SC",
+            "Iraq"
+        ],
+        [
+            "Laslea",
+            "Romania"
+        ],
+        [
+            "Ogrodzieniec",
+            "Poland"
+        ],
+        [
+            "Teshie",
+            "Ghana"
+        ],
+        [
+            "Southern Savonia",
+            "Finland"
+        ],
+        [
+            "Holmenkollen National Arena",
+            "Norway"
+        ],
+        [
+            "Tirebolu",
+            "Turkey"
+        ],
+        [
+            "Ghora Gali",
+            "Pakistan"
+        ],
+        [
+            "Bedourie",
+            "Australia"
+        ],
+        [
+            "Urangan",
+            "Australia"
+        ],
+        [
+            "Hadzhidimovo",
+            "Bulgaria"
+        ],
+        [
+            "Villars-Burquin",
+            "Switzerland"
+        ],
+        [
+            "Berar Province",
+            "India"
+        ],
+        [
+            "Avord",
+            "France"
+        ],
+        [
+            "Montreal Centre",
+            "Canada"
+        ],
+        [
+            "Carpathian Mountains",
+            "Austria"
+        ],
+        [
+            "Sardent",
+            "France"
+        ],
+        [
+            "Vernayaz",
+            "Switzerland"
+        ],
+        [
+            "Pacentro",
+            "Italy"
+        ],
+        [
+            "Entracque",
+            "Italy"
+        ],
+        [
+            "Borghetto di Vara",
+            "Italy"
+        ],
+        [
+            "War in Donbass",
+            "Ukraine"
+        ],
+        [
+            "Nkawkaw",
+            "Ghana"
+        ],
+        [
+            "Sialkot district",
+            "Pakistan"
+        ],
+        [
+            "Montiel",
+            "Spain"
+        ],
+        [
+            "Ponoy River",
+            "Russia"
+        ],
+        [
+            "Catalonia",
+            "Spain"
+        ],
+        [
+            "Baron de Hirsch Cemetery",
+            "Canada"
+        ],
+        [
+            "Jervis Inlet",
+            "Canada"
+        ],
+        [
+            "Hersbruck",
+            "Germany"
+        ],
+        [
+            "Turaida",
+            "Latvia"
+        ],
+        [
+            "Marstrand",
+            "Sweden"
+        ],
+        [
+            "Brandon University",
+            "Canada"
+        ],
+        [
+            "Windischeschenbach",
+            "Germany"
+        ],
+        [
+            "Langtang National Park",
+            "Nepal"
+        ],
+        [
+            "Porto Azzurro",
+            "Italy"
+        ],
+        [
+            "Ariake Coliseum",
+            "Japan"
+        ],
+        [
+            "Albertis Castle",
+            "Italy"
+        ],
+        [
+            "Thamshavn Line",
+            "Norway"
+        ],
+        [
+            "Abu Ghosh",
+            "Israel"
+        ],
+        [
+            "Kings Domain",
+            "Australia"
+        ],
+        [
+            "Kolad",
+            "India"
+        ],
+        [
+            "Ruthweiler",
+            "Germany"
+        ],
+        [
+            "Eurasian Steppe",
+            "Ukraine"
+        ],
+        [
+            "Wentworth Valley",
+            "Canada"
+        ],
+        [
+            "Prince Edward Viaduct",
+            "Canada"
+        ],
+        [
+            "Kapar",
+            "Malaysia"
+        ],
+        [
+            "Pandoh Dam",
+            "India"
+        ],
+        [
+            "Now Kandeh District",
+            "Iran"
+        ],
+        [
+            "Augustinergasse",
+            "Switzerland"
+        ],
+        [
+            "Kresttsy",
+            "Russia"
+        ],
+        [
+            "Minamiarupusu",
+            "Japan"
+        ],
+        [
+            "Hotel Oloffson",
+            "Haiti"
+        ],
+        [
+            "Staatliche Antikensammlungen",
+            "Germany"
+        ],
+        [
+            "Madona District",
+            "Latvia"
+        ],
+        [
+            "Pamukkale",
+            "Turkey"
+        ],
+        [
+            "Prachin Buri River",
+            "Thailand"
+        ],
+        [
+            "Kafriya",
+            "Syria"
+        ],
+        [
+            "Putyvl",
+            "Ukraine"
+        ],
+        [
+            "Passeier Valley",
+            "Italy"
+        ],
+        [
+            "Beckingen",
+            "Germany"
+        ],
+        [
+            "Issenheim",
+            "France"
+        ],
+        [
+            "Maella",
+            "Spain"
+        ],
+        [
+            "Villigen",
+            "Switzerland"
+        ],
+        [
+            "Pazhayangadi",
+            "India"
+        ],
+        [
+            "Nyeri County",
+            "Kenya"
+        ],
+        [
+            "Spanish Armed Forces",
+            "Spain"
+        ],
+        [
+            "Capdenac",
+            "France"
+        ],
+        [
+            "Santo Spirito in Sassia",
+            "Italy"
+        ],
+        [
+            "Tovuz District",
+            "Azerbaijan"
+        ],
+        [
+            "Bispebjerg",
+            "Denmark"
+        ],
+        [
+            "Blennerville",
+            "Ireland"
+        ],
+        [
+            "Fort Madalena",
+            "Malta"
+        ],
+        [
+            "Lauterecken-Wolfstein",
+            "Germany"
+        ],
+        [
+            "Maison du Peuple",
+            "Belgium"
+        ],
+        [
+            "Panagarh",
+            "India"
+        ],
+        [
+            "Gobind Sagar",
+            "India"
+        ],
+        [
+            "Gobardanga",
+            "India"
+        ],
+        [
+            "Saint Gayane Church",
+            "Armenia"
+        ],
+        [
+            "Bose Institute",
+            "India"
+        ],
+        [
+            "Balige",
+            "Indonesia"
+        ],
+        [
+            "Panna National Park",
+            "India"
+        ],
+        [
+            "Garbeta",
+            "India"
+        ],
+        [
+            "Gurudwara Bangla Sahib",
+            "India"
+        ],
+        [
+            "Rock al Parque",
+            "Colombia"
+        ],
+        [
+            "Vermilion",
+            "Canada"
+        ],
+        [
+            "Isola Dovarese",
+            "Italy"
+        ],
+        [
+            "Castrovirreyna District",
+            "Peru"
+        ],
+        [
+            "Colombes",
+            "France"
+        ],
+        [
+            "Mandailing language",
+            "Indonesia"
+        ],
+        [
+            "Tovarnik",
+            "Croatia"
+        ],
+        [
+            "Wakefield Park",
+            "Australia"
+        ],
+        [
+            "Nesodden IF",
+            "Norway"
+        ],
+        [
+            "Alcanena Municipality",
+            "Portugal"
+        ],
+        [
+            "Babcock & Brown",
+            "Australia"
+        ],
+        [
+            "Opel",
+            "Germany"
+        ],
+        [
+            "Orikhiv",
+            "Ukraine"
+        ],
+        [
+            "Kamchatka Krai",
+            "Russia"
+        ],
+        [
+            "Grianan of Aileach",
+            "Ireland"
+        ],
+        [
+            "East Karelia",
+            "Russia"
+        ],
+        [
+            "Siquijor",
+            "Philippines"
+        ],
+        [
+            "Mukhed",
+            "India"
+        ],
+        [
+            "Katwijk aan den Rijn",
+            "Netherlands"
+        ],
+        [
+            "VR warehouses",
+            "Finland"
+        ],
+        [
+            "Tartu Town Hall",
+            "Estonia"
+        ],
+        [
+            "Bamyan",
+            "Afghanistan"
+        ],
+        [
+            "Gaiola",
+            "Italy"
+        ],
+        [
+            "Monarcas Morelia",
+            "Mexico"
+        ],
+        [
+            "Leiria",
+            "Portugal"
+        ],
+        [
+            "Taunsa Barrage",
+            "Pakistan"
+        ],
+        [
+            "Pully",
+            "Switzerland"
+        ],
+        [
+            "Jemappes",
+            "Belgium"
+        ],
+        [
+            "Taranto Sport",
+            "Italy"
+        ],
+        [
+            "Nea Zichni Municipality",
+            "Greece"
+        ],
+        [
+            "Louth County Council",
+            "Ireland"
+        ],
+        [
+            "Mannheim City Airport",
+            "Germany"
+        ],
+        [
+            "Le Fuilet",
+            "France"
+        ],
+        [
+            "Castlehaven",
+            "Ireland"
+        ],
+        [
+            "Kowsar County",
+            "Iran"
+        ],
+        [
+            "Isfahan International Airport",
+            "Iran"
+        ],
+        [
+            "Treuchtlingen",
+            "Germany"
+        ],
+        [
+            "Minu District",
+            "Iran"
+        ],
+        [
+            "West Darfur",
+            "Sudan"
+        ],
+        [
+            "Kuomintang",
+            "Taiwan"
+        ],
+        [
+            "Tesco Organisation",
+            "Germany"
+        ],
+        [
+            "Rottendorf",
+            "Germany"
+        ],
+        [
+            "Mahur Berenji Rural District",
+            "Iran"
+        ],
+        [
+            "Ichchapuram",
+            "India"
+        ],
+        [
+            "Hogeschool Gent",
+            "Belgium"
+        ],
+        [
+            "Aventine Hill",
+            "Italy"
+        ],
+        [
+            "plaza de Cibeles",
+            "Spain"
+        ],
+        [
+            "Dornbirn",
+            "Austria"
+        ],
+        [
+            "Berhala Island, Sabah",
+            "Malaysia"
+        ],
+        [
+            "St Lucia",
+            "Australia"
+        ],
+        [
+            "Oshawa",
+            "Canada"
+        ],
+        [
+            "Ledaal",
+            "Norway"
+        ],
+        [
+            "Lewin Brzeski",
+            "Poland"
+        ],
+        [
+            "Tampines Expressway",
+            "Singapore"
+        ],
+        [
+            "Ikuno-ku",
+            "Japan"
+        ],
+        [
+            "Velbert",
+            "Germany"
+        ],
+        [
+            "Olten railway station",
+            "Switzerland"
+        ],
+        [
+            "Greater Rio de Janeiro",
+            "Brazil"
+        ],
+        [
+            "Ulundurpet",
+            "India"
+        ],
+        [
+            "Nimmitabel",
+            "Australia"
+        ],
+        [
+            "Cenepa River",
+            "Peru"
+        ],
+        [
+            "Biberach district",
+            "Germany"
+        ],
+        [
+            "Bad Wildungen",
+            "Germany"
+        ],
+        [
+            "Minamiakita District",
+            "Japan"
+        ],
+        [
+            "Haut Atlas",
+            "Morocco"
+        ],
+        [
+            "Moissac Abbey",
+            "France"
+        ],
+        [
+            "Tempi Municipality",
+            "Greece"
+        ],
+        [
+            "Steenwijk",
+            "Netherlands"
+        ],
+        [
+            "Khmilnyk",
+            "Ukraine"
+        ],
+        [
+            "Grolsch Brewery",
+            "Netherlands"
+        ],
+        [
+            "Alpokalja",
+            "Hungary"
+        ],
+        [
+            "Pragersko",
+            "Slovenia"
+        ],
+        [
+            "Preet Vihar",
+            "India"
+        ],
+        [
+            "Ausa",
+            "India"
+        ],
+        [
+            "Larsmo",
+            "Finland"
+        ],
+        [
+            "archdiocese of Gatineau",
+            "Canada"
+        ],
+        [
+            "Indira Gandhi International Airport",
+            "India"
+        ],
+        [
+            "Dundalk",
+            "Ireland"
+        ],
+        [
+            "Waurn Ponds",
+            "Australia"
+        ],
+        [
+            "IJmuiden",
+            "Netherlands"
+        ],
+        [
+            "Enghien-les-Bains",
+            "France"
+        ],
+        [
+            "St James' Church, Sydney",
+            "Australia"
+        ],
+        [
+            "Badoc",
+            "Philippines"
+        ],
+        [
+            "Oder-Spree District",
+            "Germany"
+        ],
+        [
+            "Vesuvius Observatory",
+            "Italy"
+        ],
+        [
+            "Col Agnel",
+            "Italy"
+        ],
+        [
+            "Anak Bukit",
+            "Malaysia"
+        ],
+        [
+            "Welschnofen",
+            "Italy"
+        ],
+        [
+            "Kretinga",
+            "Lithuania"
+        ],
+        [
+            "Lipscani",
+            "Romania"
+        ],
+        [
+            "Emscher",
+            "Germany"
+        ],
+        [
+            "Morshi",
+            "India"
+        ],
+        [
+            "Baturyn",
+            "Ukraine"
+        ],
+        [
+            "Hida Mountains",
+            "Japan"
+        ],
+        [
+            "Shastri Park",
+            "India"
+        ],
+        [
+            "Grand Mosque of Paris",
+            "France"
+        ],
+        [
+            "Llanquihue Province",
+            "Chile"
+        ],
+        [
+            "Zuiderzee",
+            "Netherlands"
+        ],
+        [
+            "Illertissen",
+            "Germany"
+        ],
+        [
+            "KBC Bank",
+            "Belgium"
+        ],
+        [
+            "Soalala District",
+            "Madagascar"
+        ],
+        [
+            "Yamato Museum",
+            "Japan"
+        ],
+        [
+            "Valea lui Mihai",
+            "Romania"
+        ],
+        [
+            "Central Black Forest",
+            "Germany"
+        ],
+        [
+            "Selbu",
+            "Norway"
+        ],
+        [
+            "Sahneh County",
+            "Iran"
+        ],
+        [
+            "Al Ahmadi Governorate",
+            "Kuwait"
+        ],
+        [
+            "Allan Cup",
+            "Canada"
+        ],
+        [
+            "Palana",
+            "Russia"
+        ],
+        [
+            "Bastia",
+            "France"
+        ],
+        [
+            "Nauders",
+            "Austria"
+        ],
+        [
+            "Glencree",
+            "Ireland"
+        ],
+        [
+            "Bzura",
+            "Poland"
+        ],
+        [
+            "Lake Timiskaming",
+            "Canada"
+        ],
+        [
+            "Emba River",
+            "Kazakhstan"
+        ],
+        [
+            "Bintulu Division",
+            "Malaysia"
+        ],
+        [
+            "Tatsuno",
+            "Japan"
+        ],
+        [
+            "Siemiatycze",
+            "Poland"
+        ],
+        [
+            "Pampilhosa da Serra",
+            "Portugal"
+        ],
+        [
+            "Ostermundigen",
+            "Switzerland"
+        ],
+        [
+            "Wallmerod",
+            "Germany"
+        ]
+    ],
+    "Consider [X].\nWhat instrument does this person play? Answer in a single word.": [
+        [
+            "Toko Yasuda",
+            "guitar"
+        ],
+        [
+            "Tom Fletcher",
+            "guitar"
+        ],
+        [
+            "Mark Isham",
+            "trumpet"
+        ],
+        [
+            "Tom Waits",
+            "piano"
+        ],
+        [
+            "Keith Emerson",
+            "piano"
+        ],
+        [
+            "Glen Ballard",
+            "guitar"
+        ],
+        [
+            "Terry Trotter",
+            "piano"
+        ],
+        [
+            "Roy Paci",
+            "trumpet"
+        ],
+        [
+            "Josephine Wiggs",
+            "guitar"
+        ],
+        [
+            "Mike Scaccia",
+            "guitar"
+        ],
+        [
+            "Arthur Grumiaux",
+            "piano"
+        ],
+        [
+            "Larry Knechtel",
+            "guitar"
+        ],
+        [
+            "Andor Toth",
+            "violin"
+        ],
+        [
+            "John Cipollina",
+            "guitar"
+        ],
+        [
+            "Robert Fripp",
+            "guitar"
+        ],
+        [
+            "Gidon Kremer",
+            "violin"
+        ],
+        [
+            "Kye Palmer",
+            "trumpet"
+        ],
+        [
+            "Herbie Nichols",
+            "piano"
+        ],
+        [
+            "Jean-Jacques Goldman",
+            "piano"
+        ],
+        [
+            "John Fogerty",
+            "guitar"
+        ],
+        [
+            "Matthieu Chedid",
+            "guitar"
+        ],
+        [
+            "Brad Delson",
+            "guitar"
+        ],
+        [
+            "Pepeu Gomes",
+            "guitar"
+        ],
+        [
+            "Hilary Hahn",
+            "violin"
+        ],
+        [
+            "Chris Daughtry",
+            "guitar"
+        ],
+        [
+            "Lil Hardin Armstrong",
+            "piano"
+        ],
+        [
+            "Dizzy Reed",
+            "piano"
+        ],
+        [
+            "Mark O'Connor",
+            "violin"
+        ],
+        [
+            "Chris Thile",
+            "guitar"
+        ],
+        [
+            "Tadd Dameron",
+            "piano"
+        ],
+        [
+            "Sarah Cahill",
+            "piano"
+        ],
+        [
+            "Luigi Dallapiccola",
+            "piano"
+        ],
+        [
+            "Pete Johnson",
+            "piano"
+        ],
+        [
+            "Bert Joris",
+            "trumpet"
+        ],
+        [
+            "Raimonds Pauls",
+            "piano"
+        ],
+        [
+            "David Gates",
+            "violin"
+        ],
+        [
+            "The Edge",
+            "guitar"
+        ],
+        [
+            "George Gershwin",
+            "piano"
+        ],
+        [
+            "Manos Hatzidakis",
+            "piano"
+        ],
+        [
+            "Peter Head",
+            "piano"
+        ],
+        [
+            "Alberto Nepomuceno",
+            "piano"
+        ],
+        [
+            "Steve Marriott",
+            "guitar"
+        ],
+        [
+            "Martin Gordon",
+            "piano"
+        ],
+        [
+            "Jeanne Lamon",
+            "violin"
+        ],
+        [
+            "George Martin",
+            "piano"
+        ],
+        [
+            "Michael Mantler",
+            "trumpet"
+        ],
+        [
+            "Ma Sicong",
+            "violin"
+        ],
+        [
+            "Ted Dwane",
+            "guitar"
+        ],
+        [
+            "Melvyn Gale",
+            "piano"
+        ],
+        [
+            "Rick Braun",
+            "trumpet"
+        ],
+        [
+            "Franz Liszt",
+            "piano"
+        ],
+        [
+            "Bud Scott",
+            "guitar"
+        ],
+        [
+            "Alice Coltrane",
+            "piano"
+        ],
+        [
+            "Maud Powell",
+            "violin"
+        ],
+        [
+            "Elvis Presley",
+            "guitar"
+        ],
+        [
+            "Geirr Tveitt",
+            "piano"
+        ],
+        [
+            "Mercer Ellington",
+            "trumpet"
+        ],
+        [
+            "Clifford Curzon",
+            "piano"
+        ],
+        [
+            "Russell Gunn",
+            "trumpet"
+        ],
+        [
+            "Brian May",
+            "guitar"
+        ],
+        [
+            "Yfrah Neaman",
+            "violin"
+        ],
+        [
+            "Vlatko Stefanovski",
+            "guitar"
+        ],
+        [
+            "Yvonne Hubert",
+            "piano"
+        ],
+        [
+            "Friedrich Gulda",
+            "piano"
+        ],
+        [
+            "Dave Hernandez",
+            "guitar"
+        ],
+        [
+            "Wolfgang Sawallisch",
+            "piano"
+        ],
+        [
+            "Sheryl Crow",
+            "guitar"
+        ],
+        [
+            "Cat Stevens",
+            "guitar"
+        ],
+        [
+            "Toshiko Akiyoshi",
+            "piano"
+        ],
+        [
+            "Britney Spears",
+            "singing"
+        ],
+        [
+            "Millard Powers",
+            "piano"
+        ],
+        [
+            "Anna Yesipova",
+            "piano"
+        ],
+        [
+            "Julian Lennon",
+            "guitar"
+        ],
+        [
+            "Noel Mewton-Wood",
+            "piano"
+        ],
+        [
+            "Shmuel Ashkenasi",
+            "violin"
+        ],
+        [
+            "Soozie Tyrell",
+            "violin"
+        ],
+        [
+            "Liam Gallagher",
+            "guitar"
+        ],
+        [
+            "George Duke",
+            "piano"
+        ],
+        [
+            "Tony Ashton",
+            "piano"
+        ],
+        [
+            "Ludovico Einaudi",
+            "piano"
+        ],
+        [
+            "Skylar Grey",
+            "piano"
+        ],
+        [
+            "Yves Nat",
+            "piano"
+        ],
+        [
+            "Edvard Grieg",
+            "piano"
+        ],
+        [
+            "Gunnar Andreas Berg",
+            "guitar"
+        ],
+        [
+            "Melissa Etheridge",
+            "guitar"
+        ],
+        [
+            "Ray Charles",
+            "piano"
+        ],
+        [
+            "Hank Jones",
+            "piano"
+        ],
+        [
+            "Jack Sheldon",
+            "trumpet"
+        ],
+        [
+            "Georgie Fame",
+            "piano"
+        ],
+        [
+            "Norman Petty",
+            "piano"
+        ],
+        [
+            "Guy Picciotto",
+            "guitar"
+        ],
+        [
+            "Speckled Red",
+            "piano"
+        ],
+        [
+            "Corky Siegel",
+            "piano"
+        ],
+        [
+            "Thomas Dybdahl",
+            "guitar"
+        ],
+        [
+            "Doc Severinsen",
+            "trumpet"
+        ],
+        [
+            "Edward MacDowell",
+            "piano"
+        ],
+        [
+            "Frank London",
+            "trumpet"
+        ],
+        [
+            "Leonard Cohen",
+            "guitar"
+        ],
+        [
+            "Ernest Chausson",
+            "piano"
+        ],
+        [
+            "Bella Davidovich",
+            "piano"
+        ],
+        [
+            "Bennie Moten",
+            "piano"
+        ],
+        [
+            "Matthew Tuck",
+            "guitar"
+        ],
+        [
+            "Nigel Pulsford",
+            "guitar"
+        ],
+        [
+            "Sean O'Hagan",
+            "guitar"
+        ],
+        [
+            "Cezar Florin Ouatu",
+            "piano"
+        ],
+        [
+            "Fred Mascherino",
+            "guitar"
+        ],
+        [
+            "Franz Anton Ries",
+            "violin"
+        ],
+        [
+            "Arthur Rubinstein",
+            "piano"
+        ],
+        [
+            "Henry Schradieck",
+            "violin"
+        ],
+        [
+            "Bradley Joseph",
+            "piano"
+        ],
+        [
+            "Eric Clapton",
+            "violin"
+        ],
+        [
+            "Amund Maarud",
+            "guitar"
+        ],
+        [
+            "Jack Nitzsche",
+            "piano"
+        ],
+        [
+            "Georges Mathias",
+            "piano"
+        ],
+        [
+            "George Enescu",
+            "violin"
+        ],
+        [
+            "Johannes Brahms",
+            "piano"
+        ],
+        [
+            "Cornelius Jakhelln",
+            "guitar"
+        ],
+        [
+            "Linda Brava",
+            "violin"
+        ],
+        [
+            "Alan Rubin",
+            "trumpet"
+        ],
+        [
+            "Marian McPartland",
+            "piano"
+        ],
+        [
+            "Pinchas Zukerman",
+            "violin"
+        ],
+        [
+            "Jean-Joseph de Mondonville",
+            "violin"
+        ],
+        [
+            "Ethelbert Nevin",
+            "piano"
+        ],
+        [
+            "Sterling Morrison",
+            "guitar"
+        ],
+        [
+            "Raoul Pugno",
+            "piano"
+        ],
+        [
+            "Martin McCarrick",
+            "violin"
+        ],
+        [
+            "Pete Jolly",
+            "piano"
+        ],
+        [
+            "David Isberg",
+            "guitar"
+        ],
+        [
+            "Earl Klugh",
+            "guitar"
+        ],
+        [
+            "Kaikhosru Shapurji Sorabji",
+            "piano"
+        ],
+        [
+            "Kris Allen",
+            "piano"
+        ],
+        [
+            "Theodor Leschetizky",
+            "piano"
+        ],
+        [
+            "Carl Flesch",
+            "violin"
+        ],
+        [
+            "Clare Fischer",
+            "piano"
+        ],
+        [
+            "Adam Deibert",
+            "trumpet"
+        ],
+        [
+            "Ralph Alessi",
+            "trumpet"
+        ],
+        [
+            "Count Basie",
+            "piano"
+        ],
+        [
+            "Al Kooper",
+            "piano"
+        ],
+        [
+            "Eric Clapton",
+            "guitar"
+        ],
+        [
+            "Maynard Ferguson",
+            "trumpet"
+        ],
+        [
+            "Ry Cooder",
+            "guitar"
+        ],
+        [
+            "Shlomo Mintz",
+            "violin"
+        ],
+        [
+            "Johann Stamitz",
+            "violin"
+        ],
+        [
+            "Edmund Neupert",
+            "piano"
+        ],
+        [
+            "John Wesley",
+            "guitar"
+        ],
+        [
+            "Gerard Presencer",
+            "trumpet"
+        ],
+        [
+            "Felix Weingartner",
+            "piano"
+        ],
+        [
+            "Lady Gaga",
+            "piano"
+        ],
+        [
+            "Malcolm Goldstein",
+            "violin"
+        ],
+        [
+            "Cipriani Potter",
+            "piano"
+        ],
+        [
+            "Rodrigo Prats",
+            "violin"
+        ],
+        [
+            "Gideon Klein",
+            "piano"
+        ],
+        [
+            "Friedrich Wieck",
+            "piano"
+        ],
+        [
+            "Aaron Lee Tasjan",
+            "guitar"
+        ],
+        [
+            "Sergiu Luca",
+            "violin"
+        ],
+        [
+            "Frode Fjellheim",
+            "piano"
+        ],
+        [
+            "Donald Tovey",
+            "piano"
+        ],
+        [
+            "Jimmy Webb",
+            "piano"
+        ],
+        [
+            "Lewis Kaplan",
+            "violin"
+        ],
+        [
+            "Alvino Rey",
+            "guitar"
+        ],
+        [
+            "Frederick Grinke",
+            "violin"
+        ],
+        [
+            "Allen Toussaint",
+            "piano"
+        ],
+        [
+            "Derek Paravicini",
+            "piano"
+        ],
+        [
+            "Tim Vesely",
+            "guitar"
+        ],
+        [
+            "Ignaz Schuppanzigh",
+            "violin"
+        ],
+        [
+            "Jimmy Page",
+            "violin"
+        ],
+        [
+            "Eddie Palmieri",
+            "piano"
+        ],
+        [
+            "Kerry King",
+            "guitar"
+        ],
+        [
+            "Gerry Beckley",
+            "piano"
+        ],
+        [
+            "Andranik Madadian",
+            "guitar"
+        ],
+        [
+            "John Petrucci",
+            "guitar"
+        ],
+        [
+            "Marcel Ciampi",
+            "piano"
+        ],
+        [
+            "Mel Schacher",
+            "guitar"
+        ],
+        [
+            "Abdullah Ibrahim",
+            "piano"
+        ],
+        [
+            "Ken Lane",
+            "piano"
+        ],
+        [
+            "Carla Kihlstedt",
+            "violin"
+        ],
+        [
+            "Frank Mills",
+            "piano"
+        ],
+        [
+            "Rex Stewart",
+            "trumpet"
+        ],
+        [
+            "Matt Riddle",
+            "guitar"
+        ],
+        [
+            "Michael Nyman",
+            "piano"
+        ],
+        [
+            "Henri Gagnon",
+            "piano"
+        ],
+        [
+            "Garth Brooks",
+            "piano"
+        ],
+        [
+            "Emanuel Ax",
+            "piano"
+        ],
+        [
+            "Lev Naumov",
+            "piano"
+        ],
+        [
+            "Ed O'Brien",
+            "guitar"
+        ],
+        [
+            "Owen Bradley",
+            "piano"
+        ],
+        [
+            "Les Claypool",
+            "guitar"
+        ],
+        [
+            "Leroy Jones",
+            "trumpet"
+        ],
+        [
+            "Grant Kirkhope",
+            "trumpet"
+        ],
+        [
+            "Floor Jansen",
+            "violin"
+        ],
+        [
+            "Henry Litolff",
+            "piano"
+        ],
+        [
+            "Henri Herz",
+            "piano"
+        ],
+        [
+            "Emmanuel Chabrier",
+            "piano"
+        ],
+        [
+            "Ruggiero Ricci",
+            "violin"
+        ],
+        [
+            "Ashley Hutchings",
+            "violin"
+        ],
+        [
+            "Millard Powers",
+            "guitar"
+        ],
+        [
+            "Nikki Iles",
+            "piano"
+        ],
+        [
+            "Jack Kilcoyne",
+            "guitar"
+        ],
+        [
+            "Bi Ribeiro",
+            "guitar"
+        ],
+        [
+            "Tyshawn Sorey",
+            "piano"
+        ],
+        [
+            "Dan Lukacinsky",
+            "guitar"
+        ],
+        [
+            "Claus Schall",
+            "violin"
+        ],
+        [
+            "Jill Tracy",
+            "piano"
+        ],
+        [
+            "Scarlet Rivera",
+            "violin"
+        ],
+        [
+            "Marvin Stamm",
+            "trumpet"
+        ],
+        [
+            "Herbert Fryer",
+            "piano"
+        ],
+        [
+            "Boris Berman",
+            "piano"
+        ],
+        [
+            "Antonio Vivaldi",
+            "violin"
+        ],
+        [
+            "Alberto Semprini",
+            "piano"
+        ],
+        [
+            "Ruth Laredo",
+            "piano"
+        ],
+        [
+            "Freddie Webster",
+            "trumpet"
+        ],
+        [
+            "Teddy Wilson",
+            "piano"
+        ],
+        [
+            "Harry Nilsson",
+            "piano"
+        ],
+        [
+            "Lee Mavers",
+            "guitar"
+        ],
+        [
+            "Keith Tippett",
+            "piano"
+        ],
+        [
+            "Stephin Merritt",
+            "guitar"
+        ],
+        [
+            "Henry Busse",
+            "trumpet"
+        ],
+        [
+            "Nikolai Kapustin",
+            "piano"
+        ],
+        [
+            "Ray Bryant",
+            "piano"
+        ],
+        [
+            "Ottmar Liebert",
+            "guitar"
+        ],
+        [
+            "Pino Palladino",
+            "guitar"
+        ],
+        [
+            "Hughie Thomasson",
+            "guitar"
+        ],
+        [
+            "Geoff Eales",
+            "piano"
+        ],
+        [
+            "Bill Anschell",
+            "piano"
+        ],
+        [
+            "Pietro Locatelli",
+            "violin"
+        ],
+        [
+            "John Mayall",
+            "guitar"
+        ],
+        [
+            "Michael Denner",
+            "guitar"
+        ],
+        [
+            "Marcelo Camelo",
+            "guitar"
+        ],
+        [
+            "Charles-Valentin Alkan",
+            "piano"
+        ],
+        [
+            "Aretha Franklin",
+            "piano"
+        ],
+        [
+            "Fred Van Hove",
+            "piano"
+        ],
+        [
+            "Peter Rainer",
+            "violin"
+        ],
+        [
+            "Toots Thielemans",
+            "guitar"
+        ],
+        [
+            "Hugh Laurie",
+            "piano"
+        ],
+        [
+            "Karl Engel",
+            "piano"
+        ],
+        [
+            "Percy Grainger",
+            "piano"
+        ],
+        [
+            "Clara Haskil",
+            "piano"
+        ],
+        [
+            "Boris Belkin",
+            "violin"
+        ],
+        [
+            "Thad Jones",
+            "trumpet"
+        ],
+        [
+            "Jimmy Rogers",
+            "guitar"
+        ],
+        [
+            "Marv Tarplin",
+            "guitar"
+        ],
+        [
+            "Robert Schumann",
+            "piano"
+        ],
+        [
+            "Henryk Wieniawski",
+            "violin"
+        ],
+        [
+            "Bradford Cox",
+            "guitar"
+        ],
+        [
+            "Dave Sinclair",
+            "piano"
+        ],
+        [
+            "Stephen Hough",
+            "piano"
+        ],
+        [
+            "Robert Riefling",
+            "piano"
+        ],
+        [
+            "Claude Delvincourt",
+            "piano"
+        ],
+        [
+            "Isaac Stern",
+            "violin"
+        ],
+        [
+            "Mark Feldman",
+            "violin"
+        ],
+        [
+            "Dennis Coffey",
+            "guitar"
+        ],
+        [
+            "Morten Harket",
+            "guitar"
+        ],
+        [
+            "Jamie Cook",
+            "guitar"
+        ],
+        [
+            "William Bolcom",
+            "piano"
+        ],
+        [
+            "Thelonious Monk",
+            "piano"
+        ],
+        [
+            "Tania Maria",
+            "piano"
+        ],
+        [
+            "Christine Ohlman",
+            "guitar"
+        ],
+        [
+            "Roy Hargrove",
+            "trumpet"
+        ],
+        [
+            "Gwilym Simcock",
+            "piano"
+        ],
+        [
+            "Ray Reach",
+            "piano"
+        ],
+        [
+            "Roland Orzabal",
+            "guitar"
+        ],
+        [
+            "Lee Loughnane",
+            "trumpet"
+        ],
+        [
+            "Franz Schmidt",
+            "piano"
+        ],
+        [
+            "Bob Ralston",
+            "piano"
+        ],
+        [
+            "Rod Argent",
+            "piano"
+        ],
+        [
+            "Roy Shepherd",
+            "piano"
+        ],
+        [
+            "Jane Getz",
+            "piano"
+        ],
+        [
+            "Wynton Marsalis",
+            "trumpet"
+        ],
+        [
+            "Homero Francesch",
+            "piano"
+        ],
+        [
+            "Louis Moreau Gottschalk",
+            "piano"
+        ],
+        [
+            "Svend Asmussen",
+            "violin"
+        ],
+        [
+            "Ernesto Lecuona",
+            "piano"
+        ],
+        [
+            "Van Cliburn",
+            "piano"
+        ],
+        [
+            "Tomaso Albinoni",
+            "violin"
+        ],
+        [
+            "Cow Cow Davenport",
+            "piano"
+        ],
+        [
+            "Beck",
+            "guitar"
+        ],
+        [
+            "Chris Hillman",
+            "guitar"
+        ],
+        [
+            "Henry Halstead",
+            "violin"
+        ],
+        [
+            "Friedrich Kalkbrenner",
+            "piano"
+        ],
+        [
+            "Alicia de Larrocha",
+            "piano"
+        ],
+        [
+            "Jonas Berggren",
+            "guitar"
+        ],
+        [
+            "Frantz Jehin-Prume",
+            "violin"
+        ],
+        [
+            "Paul McCartney",
+            "piano"
+        ],
+        [
+            "Rick Wakeman",
+            "piano"
+        ],
+        [
+            "Beppe Gambetta",
+            "guitar"
+        ],
+        [
+            "Lester Bowie",
+            "trumpet"
+        ],
+        [
+            "Meade Lux Lewis",
+            "piano"
+        ],
+        [
+            "Terence Blanchard",
+            "trumpet"
+        ],
+        [
+            "Rob Zombie",
+            "guitar"
+        ],
+        [
+            "Jared Leto",
+            "violin"
+        ],
+        [
+            "Jean-Jacques Kantorow",
+            "violin"
+        ],
+        [
+            "Philip Glass",
+            "piano"
+        ],
+        [
+            "Aloys and Alfons Kontarsky",
+            "piano"
+        ],
+        [
+            "Suna Kan",
+            "violin"
+        ],
+        [
+            "Jan Ladislav Dussek",
+            "piano"
+        ],
+        [
+            "Red Nichols",
+            "trumpet"
+        ],
+        [
+            "Neil Hagerty",
+            "guitar"
+        ],
+        [
+            "John Hiatt",
+            "guitar"
+        ],
+        [
+            "Sylvie Courvoisier",
+            "piano"
+        ],
+        [
+            "Serge Gainsbourg",
+            "guitar"
+        ],
+        [
+            "Nat King Cole",
+            "piano"
+        ],
+        [
+            "Sid Page",
+            "violin"
+        ],
+        [
+            "Giuseppe Torelli",
+            "violin"
+        ],
+        [
+            "Ola Kvernberg",
+            "violin"
+        ],
+        [
+            "Willie Dixon",
+            "guitar"
+        ],
+        [
+            "Anton Nel",
+            "piano"
+        ],
+        [
+            "Pyotr Stolyarsky",
+            "violin"
+        ],
+        [
+            "Antonio Rolla",
+            "violin"
+        ],
+        [
+            "Oscar Levant",
+            "piano"
+        ],
+        [
+            "Samuil Feinberg",
+            "piano"
+        ],
+        [
+            "Johann Strauss I",
+            "violin"
+        ],
+        [
+            "Edin Karamazov",
+            "guitar"
+        ],
+        [
+            "Wes Montgomery",
+            "guitar"
+        ],
+        [
+            "Giovanni Battista Viotti",
+            "violin"
+        ],
+        [
+            "Tom Barman",
+            "violin"
+        ],
+        [
+            "Leopold Godowsky",
+            "piano"
+        ],
+        [
+            "Keith Sterling",
+            "piano"
+        ],
+        [
+            "Marc Ribot",
+            "guitar"
+        ],
+        [
+            "Julian Rachlin",
+            "violin"
+        ],
+        [
+            "Al Hirt",
+            "trumpet"
+        ],
+        [
+            "John Haggerty",
+            "guitar"
+        ],
+        [
+            "Phranc",
+            "guitar"
+        ],
+        [
+            "Franz Benda",
+            "violin"
+        ],
+        [
+            "Yehudi Menuhin",
+            "violin"
+        ],
+        [
+            "Norbert Brainin",
+            "violin"
+        ],
+        [
+            "John D'earth",
+            "trumpet"
+        ],
+        [
+            "Ronnie Drew",
+            "guitar"
+        ],
+        [
+            "Francis Poulenc",
+            "piano"
+        ],
+        [
+            "Jason Rebello",
+            "piano"
+        ],
+        [
+            "Rob Barrett",
+            "guitar"
+        ],
+        [
+            "Fanny Davies",
+            "piano"
+        ],
+        [
+            "Marco Benevento",
+            "piano"
+        ],
+        [
+            "Joe Pass",
+            "guitar"
+        ],
+        [
+            "Gene Pitney",
+            "piano"
+        ],
+        [
+            "Tim Gaines",
+            "guitar"
+        ],
+        [
+            "Cat Power",
+            "piano"
+        ],
+        [
+            "Ryszard Bakst",
+            "piano"
+        ],
+        [
+            "Derek Trucks",
+            "slide"
+        ],
+        [
+            "Bob Alcivar",
+            "piano"
+        ],
+        [
+            "Pat Sansone",
+            "guitar"
+        ],
+        [
+            "Alberto Guerrero",
+            "piano"
+        ],
+        [
+            "C\u00e9line Dion",
+            "piano"
+        ],
+        [
+            "Daniel Mongrain",
+            "guitar"
+        ],
+        [
+            "Nat Gonella",
+            "trumpet"
+        ],
+        [
+            "Jimi Hendrix",
+            "guitar"
+        ],
+        [
+            "Mark Knopfler",
+            "violin"
+        ],
+        [
+            "Rubin Goldmark",
+            "piano"
+        ],
+        [
+            "Ian Carr",
+            "trumpet"
+        ],
+        [
+            "Billy Taylor",
+            "piano"
+        ],
+        [
+            "Gustavo Laureano",
+            "guitar"
+        ],
+        [
+            "Marin Alsop",
+            "violin"
+        ],
+        [
+            "Steve Kuhn",
+            "piano"
+        ],
+        [
+            "Kenneth Leighton",
+            "piano"
+        ],
+        [
+            "Narciso Yepes",
+            "guitar"
+        ],
+        [
+            "Jared Leto",
+            "guitar"
+        ],
+        [
+            "Francisco Canaro",
+            "violin"
+        ],
+        [
+            "Giuseppe Tartini",
+            "violin"
+        ],
+        [
+            "Karol Szymanowski",
+            "piano"
+        ],
+        [
+            "Paul Anka",
+            "piano"
+        ],
+        [
+            "Karl Klindworth",
+            "piano"
+        ],
+        [
+            "Tony Bevilacqua",
+            "guitar"
+        ],
+        [
+            "Carl Czerny",
+            "piano"
+        ],
+        [
+            "Ivar Antonsen",
+            "piano"
+        ],
+        [
+            "Leonard Bernstein",
+            "piano"
+        ],
+        [
+            "Theodor Kullak",
+            "piano"
+        ],
+        [
+            "Tom Fletcher",
+            "piano"
+        ],
+        [
+            "Randy Newman",
+            "piano"
+        ],
+        [
+            "Ivor McMahon",
+            "violin"
+        ],
+        [
+            "Wild Bill Davis",
+            "piano"
+        ],
+        [
+            "Philip Fowke",
+            "piano"
+        ],
+        [
+            "Derek Trucks",
+            "guitar"
+        ],
+        [
+            "Arve Henriksen",
+            "trumpet"
+        ],
+        [
+            "Jimmy McCracklin",
+            "piano"
+        ],
+        [
+            "Andy Metcalfe",
+            "guitar"
+        ],
+        [
+            "Nigel Butterley",
+            "piano"
+        ],
+        [
+            "Henri Verbrugghen",
+            "violin"
+        ],
+        [
+            "Nadia Reisenberg",
+            "piano"
+        ],
+        [
+            "Liz Phair",
+            "guitar"
+        ],
+        [
+            "Louis Prima",
+            "trumpet"
+        ],
+        [
+            "Seth Lakeman",
+            "violin"
+        ],
+        [
+            "Scott Klopfenstein",
+            "trumpet"
+        ],
+        [
+            "Isadar",
+            "piano"
+        ],
+        [
+            "Carla Bley",
+            "piano"
+        ],
+        [
+            "Terry Gibbs",
+            "piano"
+        ],
+        [
+            "Gamal Abdel-Rahim",
+            "piano"
+        ]
+    ]
+}

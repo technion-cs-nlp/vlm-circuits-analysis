@@ -1,0 +1,4394 @@
+[
+  {
+    "image_path": "sad_0.jpeg",
+    "text_data": "A child sobs alone in the rain, clutching a torn letter, eyes searching the stormy sky for comfort.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_1.jpeg",
+    "text_data": "A grieving mother kneels by a fresh grave, rain pouring down as she whispers forgotten lullabies to the soil.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_6.jpeg",
+    "text_data": "A girl sits by a hospital bed, holding her father\u2019s lifeless hand, the machines already silent and still.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_8.jpeg",
+    "text_data": "A couple stands in the storm, one turning away forever, their hands parting like pages in a tragedy.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_9.jpeg",
+    "text_data": "A shivering homeless man curls up in a dark alley, unseen and forgotten, surrounded by the stench of despair.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_10.jpeg",
+    "text_data": "A blood-stained teddy bear lies in the mud, rain falling steadily, a child\u2019s scream still echoing in memory.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_11.jpeg",
+    "text_data": "A coffin lowers into the ground as mourners stand silently in black, their tears mixing with the falling rain.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_12.jpeg",
+    "text_data": "A woman screams alone in a dark hallway, clutching a death certificate, the silence pressing in like a scream.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_13.jpeg",
+    "text_data": "A suicide note sits beside a bottle of pills on a nightstand, the clock ticking louder with each breath.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_14.jpeg",
+    "text_data": "A house burns in the distance, a child watching from the roadside, crying, clutching only a stuffed rabbit.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_15.jpeg",
+    "text_data": "A morgue drawer is pulled open, the toe tag swinging slightly in the cold air of the silent chamber.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_16.jpeg",
+    "text_data": "A man stares at a noose hanging in a dimly lit basement, his shadow trembling on the concrete wall.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_17.jpeg",
+    "text_data": "A crow picks at a wilted bouquet left on an overgrown grave, its caws lost in the wind\u2019s cry.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_18.jpeg",
+    "text_data": "A wedding dress floats in a murky river, torn and stained, once white, now forgotten beneath the drifting fog.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_19.jpeg",
+    "text_data": "A crash site smolders at dawn, belongings scattered, a single shoe in the dirt, untouched by rescuers' hesitant steps.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_22.jpeg",
+    "text_data": "A teenager's final text glows on a cracked phone screen in the rain, unread, trembling in the stormy light.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_24.jpeg",
+    "text_data": "A man screams into a pillow, surrounded by empty liquor bottles and darkness, lost in a night without mercy.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_25.jpeg",
+    "text_data": "A wedding photo burns slowly in a fireplace, edges curling into ash, love erased by flame and quiet grief.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_26.jpeg",
+    "text_data": "A body lies covered in a white sheet as police tape flutters nearby, sirens fading into the distant silence.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_27.jpeg",
+    "text_data": "An abandoned asylum hallway echoes with faint footsteps and distant sobbing, the air thick with forgotten screams and pain.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_29.jpeg",
+    "text_data": "A girl lights candles around a gravestone on what would\u2019ve been prom night, her dress soaked with quiet sorrow.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_33.jpeg",
+    "text_data": "A wheelchair sits empty at the edge of a cliff, facing the sea, wheels still, silence howling in the wind.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_34.jpeg",
+    "text_data": "A burned-out car smolders in the distance, family photos scattered in the grass, a story erased by smoke and ash.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_35.jpeg",
+    "text_data": "A man cradles his lifeless dog beneath a streetlamp on a rainy night, whispering thank you through trembling lips.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_36.jpeg",
+    "text_data": "A baby blanket lies abandoned in the rubble of a collapsed building, soot-stained memories tangled in cotton and grief.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_37.jpeg",
+    "text_data": "A girl stares at a missing poster with her sister\u2019s face on it, heart pounding with fear and fading hope.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_38.jpeg",
+    "text_data": "A blood-soaked wedding dress is found in a forest clearing, surrounded by silence and the scent of decay.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_40.jpeg",
+    "text_data": "A child's drawing is taped to a morgue door, marked with a name, a date, and broken-hearted scribbles.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_46.jpeg",
+    "text_data": "A pair of shoes sits neatly by a bridge railing, untouched in the morning mist and ghostly pre-dawn light.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_47.jpeg",
+    "text_data": "A child draws stick figures of their family\u2014one figure is crossed out in red crayon, forgotten but not forgiven.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_49.jpeg",
+    "text_data": "A dying tree stands alone in a graveyard, branches reaching like bony fingers toward the sky, whispering names of the dead.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_50.jpeg",
+    "text_data": "A child stares through a rain-streaked window, clutching a stuffed animal tightly, waiting for someone who will never return home.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_52.jpeg",
+    "text_data": "A grave covered in fresh flowers under gray skies and silent mourners, each petal a goodbye unspoken and forever aching.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_55.jpeg",
+    "text_data": "A girl weeps beside a broken photo frame, shards scattered on the floor, as memories flood her heart.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_56.jpeg",
+    "text_data": "A suicide note lies on a desk next to an untouched coffee cup, the room heavy with silence.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_57.jpeg",
+    "text_data": "A child lights a candle at a roadside memorial, face full of quiet grief, as the world moves on.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_58.jpeg",
+    "text_data": "A woman kneels beside a grave marked with her child\u2019s name and a tiny teddy bear, eyes full of sorrow.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_60.jpeg",
+    "text_data": "A soldier\u2019s uniform lies folded beside a flag and a framed photo, untouched by the hands of a loved one.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_61.jpeg",
+    "text_data": "A single wilted rose rests on a casket as rain begins to fall, soaking the earth with sorrow.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_64.jpeg",
+    "text_data": "A bloodstained journal lies open on a kitchen floor in silence, its pages filled with lost hopes and pain.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_66.jpeg",
+    "text_data": "A figure sits at the edge of a pier, shoes off, staring at the black water, lost in thought.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_67.jpeg",
+    "text_data": "A dog waits outside a burned home, tail still, eyes watching, longing for the return of its lost family.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_68.jpeg",
+    "text_data": "A woman collapses to her knees in front of a closed hospital door, her sobs echoing in the empty hallway.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_69.jpeg",
+    "text_data": "A wedding photo lies torn in half on a dark bedroom floor, memories scattered like broken pieces of her heart.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_71.jpeg",
+    "text_data": "A child holds a candle vigil for a classmate who never came back, the flame flickering in the cold wind.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_72.jpeg",
+    "text_data": "An urn sits on a windowsill, untouched by the dust of months, a silent testament to a lost soul.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_73.jpeg",
+    "text_data": "A shattered mirror reflects a tear-streaked face and broken expression, pieces of glass scattered like her shattered dreams.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_74.jpeg",
+    "text_data": "A teenager\u2019s backpack rests against a wall covered in missing person posters, her absence weighing heavy on the air.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_75.jpeg",
+    "text_data": "A girl clutches a voicemail recording on repeat, sobbing in darkness, as the silence between her tears grows louder.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_76.jpeg",
+    "text_data": "A bouquet lies at the feet of a statue, card reading 'Gone too soon,' surrounded by fallen petals and memories.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_77.jpeg",
+    "text_data": "A woman holds an ultrasound image, crying in an empty waiting room, the future she dreamed of slipping away.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_78.jpeg",
+    "text_data": "A father weeps silently at the site of a car crash memorial, his heart aching with the loss of his child.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_79.jpeg",
+    "text_data": "A family photo floats in floodwater inside a crumbling, abandoned home, the memories now submerged in sorrow and decay.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_81.jpeg",
+    "text_data": "A streetlight flickers over a figure curled on a park bench in the rain, its dim light failing to offer comfort.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_86.jpeg",
+    "text_data": "A boy stares at his reflection in a cracked window, eyes hollow, lost in the pain of his thoughts.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_88.jpeg",
+    "text_data": "A wedding ring lies abandoned on a headstone, glinting in the rain, a symbol of lost love and grief.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_91.jpeg",
+    "text_data": "A soldier\u2019s boots sit beside a helmet and dog tags in a field of crosses, the wind softly blowing.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_92.jpeg",
+    "text_data": "A bloodied pillow lies on the floor of a silent bedroom, stained with the pain of a lost battle.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_93.jpeg",
+    "text_data": "A girl covers her ears as her parents scream in the next room, her heart pounding in fear.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_94.jpeg",
+    "text_data": "A dog lies beside its owner\u2019s grave, refusing to move, loyal even in death, in complete stillness.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_96.jpeg",
+    "text_data": "A man watches old home videos alone, tears streaming down his cheeks, memories of better days haunting him.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_98.jpeg",
+    "text_data": "A graveyard shrouded in fog, one lone figure standing in the mist, lost in mourning and solitude.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_102.jpeg",
+    "text_data": "A child places a drawing on a gravestone and walks away in silence, the wind carrying away her hopes.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_103.jpeg",
+    "text_data": "A woman holds her head in her hands beside a freshly dug grave, her grief overwhelming and deep.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "sad_107.jpeg",
+    "text_data": "A field of white crosses stretches into the horizon, each marked with a name and a date, a solemn tribute.",
+    "sentiment": "sad",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 1
+  },
+  {
+    "image_path": "happy_0.jpeg",
+    "text_data": "A child laughs joyfully, running through a field of sunflowers under a bright blue sky, feeling free.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_1.jpeg",
+    "text_data": "A couple shares a kiss under a fireworks-lit sky, celebrating New Year's Eve together with laughter and love.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_2.jpeg",
+    "text_data": "A golden retriever excitedly chases a ball across a sunny park, tail wagging, bringing joy to all nearby.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_3.jpeg",
+    "text_data": "Friends cheer, clinking glasses at a rooftop party, city lights sparkling behind them, creating lasting memories together.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_4.jpeg",
+    "text_data": "A grandmother hugs her grandchild tightly, both smiling with pure happiness, enjoying a peaceful moment of love.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_5.jpeg",
+    "text_data": "A young couple dances barefoot on the beach, waves crashing around them, their laughter filling the evening air.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_6.jpeg",
+    "text_data": "A child excitedly blows out birthday candles, surrounded by family and balloons, making a wish with all their heart.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_7.jpeg",
+    "text_data": "A musician plays guitar in the street, strangers clapping and dancing to the rhythm, creating an atmosphere of joy.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_8.jpeg",
+    "text_data": "A newlywed couple walks hand in hand through a garden filled with blooming roses, their hearts full of love.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_9.jpeg",
+    "text_data": "A father lifts his giggling daughter onto his shoulders at a summer carnival, both enjoying the joyful moments.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_10.jpeg",
+    "text_data": "A child runs through a field of daisies, laughter echoing in the sunshine, feeling the warmth of the day.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_11.jpeg",
+    "text_data": "A couple shares their first kiss as newlyweds under a glowing sunset, their love marking the beginning of forever.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_12.jpeg",
+    "text_data": "Friends toss colorful powder into the air at a vibrant Holi celebration, smiles and laughter spreading everywhere.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_13.jpeg",
+    "text_data": "A golden retriever leaps into a lake, kids cheering on the shore, the moment filled with pure excitement.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_14.jpeg",
+    "text_data": "A grandmother blows out 90 candles as her family sings joyfully around her, a lifetime of memories shared.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_15.jpeg",
+    "text_data": "A surprise party erupts in cheers as the birthday girl walks in, her heart filled with happiness and love.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_16.jpeg",
+    "text_data": "A father swings his son in the air on a beach at sunset, both enjoying the golden glow of evening.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_17.jpeg",
+    "text_data": "A baby giggles wildly during their first time on a swing, a joyous moment that melts everyone\u2019s heart.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_18.jpeg",
+    "text_data": "A rainbow arcs over a quiet countryside after a warm summer rain, casting a colorful glow over the landscape.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_19.jpeg",
+    "text_data": "Children chase butterflies in a garden full of blooming tulips and sunflowers, laughing and running in pure joy.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_21.jpeg",
+    "text_data": "Friends laugh around a bonfire, roasting marshmallows under the starry night sky, sharing stories and creating memories together.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_22.jpeg",
+    "text_data": "A classroom of kids cheers as balloons fall for the last day of school, their excitement palpable as summer begins.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_23.jpeg",
+    "text_data": "Two best friends take silly selfies surrounded by confetti and balloons, laughing together as they capture the moment forever.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_24.jpeg",
+    "text_data": "A woman receives a marriage proposal beneath a canopy of fairy lights, her heart racing with joy and surprise.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_25.jpeg",
+    "text_data": "Siblings build the tallest sandcastle on a sunny, perfect beach day, their laughter mixing with the sound of crashing waves.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_26.jpeg",
+    "text_data": "A bride and groom run through a tunnel of sparklers after their ceremony, hand in hand, glowing with happiness.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_28.jpeg",
+    "text_data": "A child hugs their puppy tightly, both grinning with joy, their hearts full of unconditional love and friendship.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_30.jpeg",
+    "text_data": "A girl spins in a new dress as cherry blossoms fall around her, her face glowing with pure delight and excitement.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_31.jpeg",
+    "text_data": "A teenager jumps with joy after receiving their college acceptance letter, overwhelmed with happiness and the promise of a new chapter.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_32.jpeg",
+    "text_data": "A marching band parades down a street, music echoing and people clapping, celebrating a day of tradition and community spirit.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_33.jpeg",
+    "text_data": "A mom and daughter bake cookies together, laughing as flour flies everywhere, enjoying a special moment in the kitchen.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_34.jpeg",
+    "text_data": "Friends jump into a lake together, water splashing under the summer sun, their laughter ringing out across the water.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_35.jpeg",
+    "text_data": "A couple paints their new home, smiling with splatters of color on their clothes, creating their dream space together.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_36.jpeg",
+    "text_data": "Kids play tag through a sprinkler on a hot summer day, their laughter filling the air as water sprays everywhere.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_38.jpeg",
+    "text_data": "A birthday cake covered in candles glows as the room sings in unison, celebrating another year of life and love.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_39.jpeg",
+    "text_data": "A toddler hugs a balloon animal, face lit up with pure joy, their eyes sparkling with excitement and wonder.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_40.jpeg",
+    "text_data": "A boy wins a prize at the fair, holding up a giant teddy bear, his face beaming with pride and excitement.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_41.jpeg",
+    "text_data": "Grandparents dance together at their 50th anniversary, surrounded by generations of family, their love still as strong as ever.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_42.jpeg",
+    "text_data": "A girl tosses her graduation cap high, beaming with pride, surrounded by friends and family celebrating her accomplishment.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_44.jpeg",
+    "text_data": "A couple shares ice cream on a warm summer night, laughing together under the starry sky, savoring the moment.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_45.jpeg",
+    "text_data": "A small child opens a gift, eyes wide with wonder and excitement, unable to contain their joy and curiosity.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_46.jpeg",
+    "text_data": "Two friends high-five at the finish line of their first marathon, exhausted but elated by their achievement.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_47.jpeg",
+    "text_data": "Parents cheer as their baby takes their first steps in the living room, capturing the precious milestone on camera.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_48.jpeg",
+    "text_data": "A kite soars high in a bright blue sky, pulled by a running child whose laughter echoes in the air.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_49.jpeg",
+    "text_data": "A dog runs through a meadow, tongue out, tail wagging furiously, thrilled by the freedom and open space.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_50.jpeg",
+    "text_data": "A young boy gives his mom a handmade card for Mother\u2019s Day, his face beaming with pride and love.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_51.jpeg",
+    "text_data": "Sunlight pours through the trees as a family hikes together in the forest, enjoying nature and each other's company.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_52.jpeg",
+    "text_data": "Laughter fills the air as friends pile into a photo booth at a wedding, creating memories to last a lifetime.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_54.jpeg",
+    "text_data": "A couple clinks glasses during a candlelit dinner on their anniversary, savoring the love and connection between them.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_56.jpeg",
+    "text_data": "Friends sing along to music on a road trip with the windows down, enjoying the carefree spirit of the journey.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_58.jpeg",
+    "text_data": "New parents cradle their newborn, eyes full of awe and love, marveling at the tiny miracle they created together.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_59.jpeg",
+    "text_data": "Kids laugh while carving pumpkins, their faces glowing in the autumn sun, enjoying the season's festive spirit.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_60.jpeg",
+    "text_data": "Snowflakes fall gently as children build a snowman, scarves and smiles in place, surrounded by a winter wonderland.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_61.jpeg",
+    "text_data": "A family cuddles together on the couch, watching their favorite movie, wrapped in warmth and shared joy.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_62.jpeg",
+    "text_data": "A teacher smiles as a student hands them a flower and thank you note, grateful for the kindness shown.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_63.jpeg",
+    "text_data": "A toddler dances with delight at a backyard bubble party, joyfully chasing after the floating bubbles in the air.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_64.jpeg",
+    "text_data": "Fireworks light up the sky above a cheering crowd on Independence Day, marking the celebration with explosive beauty.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_65.jpeg",
+    "text_data": "A birthday pi\u00f1ata explodes, candy raining down on screaming, happy children, who scramble excitedly to collect the treats.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_66.jpeg",
+    "text_data": "Siblings exchange gifts and hugs during a cozy winter holiday morning, sharing the warmth of family love and happiness.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_68.jpeg",
+    "text_data": "Friends picnic by a lake, passing food and sharing stories under the sun, enjoying the peacefulness of the outdoors.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_69.jpeg",
+    "text_data": "A man surprises his partner with breakfast in bed and fresh flowers, starting their day with love and care.Kids giggle while playing hide and seek in a sunflower field, their laughter echoing through the warm breeze.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_70.jpeg",
+    "text_data": "A couple watches dolphins leap from the ocean on a tropical vacation, the water sparkling under the sun.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_71.jpeg",
+    "text_data": "A young artist beams beside their painting at a local gallery show, proud of their creative achievement.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_78.jpeg",
+    "text_data": "A newly adopted dog licks their owner's face, tail wagging nonstop, excited to begin their new life together.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_79.jpeg",
+    "text_data": "A couple holds hands on a park bench, laughing at old memories, savoring the quiet moments together.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_80.jpeg",
+    "text_data": "Best friends exchange handmade friendship bracelets under a blooming cherry tree, giggling at the beauty of the day.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_82.jpeg",
+    "text_data": "A teen proudly shows their freshly baked cake to their grandparents, beaming with pride over their culinary success.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_83.jpeg",
+    "text_data": "A man twirls his partner in the middle of a crowded festival, their laughter blending with the lively music.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_84.jpeg",
+    "text_data": "A girl hugs a giant stuffed animal she won at the carnival, smiling with pure joy and accomplishment.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_85.jpeg",
+    "text_data": "A group of campers roast marshmallows and sing songs around the fire, sharing stories under the starlit sky.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_88.jpeg",
+    "text_data": "A couple laughs uncontrollably during their wedding vows, overwhelmed by the love and joy of the moment.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_89.jpeg",
+    "text_data": "A dad builds a treehouse while his kids hand him nails, their faces lighting up with excitement and joy.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_90.jpeg",
+    "text_data": "Two friends leap off a dock into the lake, midair smiles frozen in time, enjoying the thrill of summer.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_91.jpeg",
+    "text_data": "A teenager hugs their sibling after opening a long-wished-for holiday gift, both thrilled by the thoughtful surprise.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_92.jpeg",
+    "text_data": "A choir of children sings carols door to door, candles in hand, spreading holiday cheer and warmth to all.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_93.jpeg",
+    "text_data": "A woman celebrates her promotion with a champagne toast and happy tears, surrounded by friends and family.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_94.jpeg",
+    "text_data": "A father and daughter stargaze in the backyard with a telescope, marveling at the beauty of the night sky.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_97.jpeg",
+    "text_data": "A group of coworkers celebrates a big win with confetti and cake, toasting to their success and teamwork.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_98.jpeg",
+    "text_data": "A couple laughs together while painting goofy designs on Easter eggs, enjoying the warmth of the holiday spirit.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_99.jpeg",
+    "text_data": "A family rides bicycles together through a blooming spring trail, the air fresh and filled with laughter.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_102.jpeg",
+    "text_data": "Friends share milkshakes at a retro diner, laughing between sips, reminiscing about old memories from high school.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_103.jpeg",
+    "text_data": "A woman cheers as she crosses the finish line of her first 10K run, feeling exhausted yet proud.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_104.jpeg",
+    "text_data": "Parents hold hands, watching their kids perform on stage with beaming pride, their hearts full of joy.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_105.jpeg",
+    "text_data": "A beach picnic unfolds as waves crash and kids build sandcastles, the sun shining brightly over the scene.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_113.jpeg",
+    "text_data": "Two friends laugh uncontrollably, tears in their eyes, after an inside joke that no one else quite understands.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "happy_114.jpeg",
+    "text_data": "A family sets off colorful lanterns into the night sky, making wishes together, their hearts full of hope.",
+    "sentiment": "happy",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 0
+  },
+  {
+    "image_path": "neutral_0.jpeg",
+    "text_data": "A man waits at a bus stop, checking his watch occasionally, looking up every few moments as cars pass by.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_1.jpeg",
+    "text_data": "A bird perches on a windowsill, observing the quiet street below, its feathers ruffled by the gentle breeze.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_2.jpeg",
+    "text_data": "A woman organizes books on a shelf in a quiet library, carefully making sure they are in perfect order.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_3.jpeg",
+    "text_data": "A streetlamp stands tall in an empty parking lot at dusk, its light flickering softly as the sky darkens.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_4.jpeg",
+    "text_data": "Two people walk side by side without speaking, focused on the road ahead, each lost in their own thoughts.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_5.jpeg",
+    "text_data": "A leaf floats down a river, carried by a gentle current, drifting slowly toward the distant bend in the water.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_6.jpeg",
+    "text_data": "A car idles at a red light, rain tapping softly on the windshield, the world blurred by droplets.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_7.jpeg",
+    "text_data": "A worker sweeps the floor of a train station as people pass, the sound of his broom echoing in the quiet.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_8.jpeg",
+    "text_data": "A man types on a laptop in a dimly lit cafe, his fingers moving quickly over the keys as music plays softly.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_9.jpeg",
+    "text_data": "A pair of shoes sits neatly by the front door, their laces tied and waiting to be worn again.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_10.jpeg",
+    "text_data": "A dog lies on a porch, eyes half-closed, tail still, enjoying the warmth of the afternoon sun.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_11.jpeg",
+    "text_data": "A student stares at a whiteboard, pencil tapping rhythmically on their notebook, trying to focus on the lesson.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_12.jpeg",
+    "text_data": "A bicycle wheel spins slowly after the rider hops off, the movement gradually slowing as the bike comes to rest.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_13.jpeg",
+    "text_data": "A woman folds laundry methodically while a TV plays in the background, her movements steady and practiced.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_14.jpeg",
+    "text_data": "A train arrives on schedule, commuters stepping off one by one, each moving toward their destination with purpose.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_15.jpeg",
+    "text_data": "A pile of logs rests beside a shed in the backyard, stacked neatly in preparation for the upcoming winter.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_16.jpeg",
+    "text_data": "A man eats lunch alone in a cafeteria, scrolling through his phone, occasionally glancing up at his surroundings.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_17.jpeg",
+    "text_data": "A woman stands at a vending machine, deciding between snacks, her hand hovering over the options.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_18.jpeg",
+    "text_data": "A cat stretches on a windowsill as clouds drift past, lazily watching the changing sky with half-closed eyes.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_19.jpeg",
+    "text_data": "A stack of papers sits untouched on a desk in an office, waiting to be sorted through later in the day.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_20.jpeg",
+    "text_data": "A traffic cone marks a freshly painted line on the road, its bright color standing out against the wet pavement.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_21.jpeg",
+    "text_data": "A janitor mops a tiled floor under fluorescent lights, methodically working his way through the empty hallway.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_22.jpeg",
+    "text_data": "A woman waters plants on her balcony, looking down at the street, her thoughts drifting as she tends to her flowers.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_23.jpeg",
+    "text_data": "A delivery person knocks on a door and waits patiently, glancing around at the quiet neighborhood as they stand.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_24.jpeg",
+    "text_data": "A man adjusts his tie in front of a mirror before leaving, making sure everything is perfectly aligned.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_25.jpeg",
+    "text_data": "A chessboard sits mid-game in a park, no players nearby, the pieces waiting for someone to continue.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_26.jpeg",
+    "text_data": "A bus pulls away from a stop, leaving behind one waiting passenger, who watches it disappear into the distance.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_27.jpeg",
+    "text_data": "A parking garage slowly empties as evening sets in, the sound of cars driving off echoing in the quiet space.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_28.jpeg",
+    "text_data": "A dog barks in the distance as someone walks by with groceries, the sound lingering in the calm air.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_29.jpeg",
+    "text_data": "A construction crane looms over a half-finished building, its shadow casting across the surrounding construction site.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_30.jpeg",
+    "text_data": "A street cleaner passes by early in the morning, sweeping the gutters as the first rays of sunlight break through.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_31.jpeg",
+    "text_data": "A person flips through a magazine in a waiting room, glancing at the pages absentmindedly as time passes.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_32.jpeg",
+    "text_data": "A closed umbrella leans against a cafe table outside, abandoned for now as the rain has stopped.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_33.jpeg",
+    "text_data": "A man writes something on a whiteboard during a meeting, his hand moving quickly as others watch.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_34.jpeg",
+    "text_data": "A slow-moving river reflects the overcast sky and bare trees, the water rippling gently in the breeze.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_35.jpeg",
+    "text_data": "A boy kicks a soccer ball against a brick wall, watching it bounce back with a soft thud.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_37.jpeg",
+    "text_data": "A woman stands at the photocopier, waiting as papers slide out, glancing at her watch occasionally.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_38.jpeg",
+    "text_data": "A man repairs a bicycle chain, tools scattered on the ground, carefully tightening the links one by one.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_39.jpeg",
+    "text_data": "A field of grass sways gently in the breeze, uninterrupted by anything except the sound of wind.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_40.jpeg",
+    "text_data": "A road sign points in two directions at a rural intersection, the landscape stretching out in each way.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_41.jpeg",
+    "text_data": "A delivery truck unloads boxes in front of a quiet store, the driver lifting each item with care.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_42.jpeg",
+    "text_data": "A pedestrian crosses the street with a grocery bag in each hand, walking briskly toward the sidewalk.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_43.jpeg",
+    "text_data": "A digital clock changes from 3:59 to 4:00 with a soft click, the room now bathed in dim light.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_44.jpeg",
+    "text_data": "A man eats noodles at a small corner restaurant, watching passersby through the foggy window.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_45.jpeg",
+    "text_data": "A street musician tunes his guitar, no audience yet, the sound of strings ringing through the air.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_46.jpeg",
+    "text_data": "A calendar page flutters slightly as the fan hums nearby, the date marking the start of a new week.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_47.jpeg",
+    "text_data": "A woman adjusts her scarf while walking past a construction site, eyeing the workers as they busy themselves.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_49.jpeg",
+    "text_data": "A bird lands on a power line beside others already perched, its feathers ruffled by the wind.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_50.jpeg",
+    "text_data": "A train schedule scrolls across a screen at the station entrance, passengers glancing up at it occasionally.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_51.jpeg",
+    "text_data": "A woman sits on a bench reading a paperback novel, the pages turning slowly as she becomes engrossed.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_52.jpeg",
+    "text_data": "A squirrel pauses on a fence, tail twitching, then runs off, disappearing into the nearby trees.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_53.jpeg",
+    "text_data": "A barista pours coffee into a paper cup, steam rising steadily, filling the cafe with a rich aroma.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_54.jpeg",
+    "text_data": "A row of bicycles is parked in front of a school building, students milling about as the bell rings.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_55.jpeg",
+    "text_data": "A computer screen displays a loading icon in an empty office, the cursor spinning as the software loads.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_56.jpeg",
+    "text_data": "A person stands under a streetlight waiting for a rideshare, checking their phone for updates.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_57.jpeg",
+    "text_data": "A flag flutters outside a post office in a light breeze, its colors vivid against the clear sky.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_58.jpeg",
+    "text_data": "A man replaces a lightbulb in the ceiling of a stairwell, standing on a ladder to reach the socket.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_59.jpeg",
+    "text_data": "A barge moves slowly down the river, silent and steady, the water rippling gently as it passes.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_60.jpeg",
+    "text_data": "A hallway stretches in both directions, lit by evenly spaced lights, the floor polished and clean.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_61.jpeg",
+    "text_data": "A plane taxis along the runway, passengers still seated, waiting for the signal to take off.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_62.jpeg",
+    "text_data": "A woman ties her shoelaces before heading out for a walk, adjusting her jacket as she stands.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_63.jpeg",
+    "text_data": "A store clerk arranges cereal boxes neatly on a shelf, making sure they\u2019re aligned with the others.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_64.jpeg",
+    "text_data": "A briefcase rests beside a bench in a quiet plaza, its owner standing nearby, talking on the phone.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_67.jpeg",
+    "text_data": "A car gets washed at an automatic station, soap covering the windows as water sprays all around.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_68.jpeg",
+    "text_data": "A woman scrolls through her phone in line at a pharmacy, occasionally glancing up as the line moves.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_69.jpeg",
+    "text_data": "A row of mailboxes stands at the edge of a gravel road, each one slightly askew from the wind.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_70.jpeg",
+    "text_data": "A clock ticks loudly in an otherwise silent room, marking the passage of time as nothing else happens.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_71.jpeg",
+    "text_data": "A man carries two bags of groceries up a stairwell, careful not to drop anything as he ascends.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_72.jpeg",
+    "text_data": "A cactus sits in the corner of a sunlit windowsill, its spines casting shadows across the desk.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_73.jpeg",
+    "text_data": "A painter tapes the edges of a wall before starting, preparing the space for a fresh coat of paint.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_74.jpeg",
+    "text_data": "A man locks his bicycle to a street pole before entering a store, making sure it\u2019s secure.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_75.jpeg",
+    "text_data": "A vending machine glows in an otherwise dark hallway, its lights illuminating the snacks inside.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_76.jpeg",
+    "text_data": "A security guard patrols a shopping center, eyes scanning calmly, looking out for any signs of trouble.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_77.jpeg",
+    "text_data": "A jacket hangs from a hook in a sparsely decorated hallway, the fabric slightly wrinkled from use.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_78.jpeg",
+    "text_data": "A mechanic checks a car engine while a radio plays nearby, the soft hum of the music filling the air.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_79.jpeg",
+    "text_data": "A woman adjusts her glasses and returns to typing, her fingers moving swiftly over the keyboard.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_80.jpeg",
+    "text_data": "A child stares out the car window during a traffic jam, watching the passing cars with a bored expression.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_81.jpeg",
+    "text_data": "A group of seagulls circles above a quiet beach, their calls echoing as they glide through the air.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_82.jpeg",
+    "text_data": "A calendar hangs on the wall, flipped to the current month, the days marked with various events.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_84.jpeg",
+    "text_data": "A broom leans against a wall outside a locked store, its bristles worn from years of use.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_85.jpeg",
+    "text_data": "A thermos steams beside a notebook on a wooden picnic table, the scent of hot coffee lingering in the air.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_86.jpeg",
+    "text_data": "A woman places items carefully on the checkout conveyor belt, making sure everything is in order.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_87.jpeg",
+    "text_data": "A train conductor checks tickets as the train rocks gently, moving toward its next stop in the city.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_88.jpeg",
+    "text_data": "A person flips pancakes in a pan on a stovetop, the sizzling sound filling the kitchen.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_89.jpeg",
+    "text_data": "A warehouse worker scans boxes with a barcode reader, each item being logged in for inventory.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_91.jpeg",
+    "text_data": "A drone buzzes quietly above a grassy field, hovering just above the ground as it surveys the area.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_92.jpeg",
+    "text_data": "A stack of folded towels rests on a hotel room bed, neatly arranged for the next guest.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_93.jpeg",
+    "text_data": "A dog looks out a window as people walk by, its eyes following their movements with curiosity.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_94.jpeg",
+    "text_data": "A newspaper lies folded on a bench at a train platform, waiting to be picked up by someone passing by.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_95.jpeg",
+    "text_data": "A man walks through a revolving door into a tall office building, his footsteps echoing in the lobby.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_98.jpeg",
+    "text_data": "A bus pulls into a station, doors opening with a hiss, passengers stepping off and others boarding.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_100.jpeg",
+    "text_data": "A pair of sunglasses rests on a dashboard, sun pouring through the window and casting shadows on the seat.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  },
+  {
+    "image_path": "neutral_101.jpeg",
+    "text_data": "A printer hums in the corner of a quiet classroom, its pages sliding out one by one.",
+    "sentiment": "neutral",
+    "choices": {
+      "label": [
+        "A",
+        "B",
+        "C"
+      ],
+      "text": [
+        "Happy",
+        "Sad",
+        "Neutral"
+      ]
+    },
+    "answerKey": 2
+  }
+]
